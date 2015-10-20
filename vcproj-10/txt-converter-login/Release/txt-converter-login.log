@@ -1,0 +1,39 @@
+﻿Build started 10/20/2015 12:15:28 PM.
+     1>Project "D:\00MEDIAS\Games\RO\Server\renewal\ServerJob3\vcproj-10\txt-converter-login.vcxproj" on node 2 (Rebuild target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /I..\3rdparty\mysql\include /I..\3rdparty\msinttypes\include /Zi /nologo /W3 /WX- /O2 /Ob2 /Oi /Ot /Oy /GT /GL /D WIN32 /D _WIN32 /D __WIN32 /D NDEBUG /D _CRT_SECURE_NO_DEPRECATE /D _CRT_NONSTDC_NO_DEPRECATE /D FD_SETSIZE=4096 /D DB_MANUAL_CAST_TO_UNION /D MINICORE /D WITH_TXT /D WITH_SQL /D _VC80_UPGRADE=0x0710 /D _MBCS /GF /Gm- /EHsc /MT /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"txt-converter-login\Release\\" /Fd"txt-converter-login\Release\vc120.pdb" /Gd /TC /analyze- /errorReport:prompt ..\src\common\core.c ..\src\common\db.c ..\src\common\ers.c ..\src\common\lock.c ..\src\common\malloc.c ..\src\common\showmsg.c ..\src\common\sql.c ..\src\common\strlib.c ..\src\common\timer.c ..\src\common\utils.c ..\src\login\account_sql.c ..\src\login\account_txt.c "..\src\txt-converter\login-converter.c"
+         core.c
+         db.c
+         ers.c
+         lock.c
+         malloc.c
+         showmsg.c
+         sql.c
+         strlib.c
+         timer.c
+         utils.c
+         account_sql.c
+         account_txt.c
+         login-converter.c
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"..\tools\login-converter.exe" /INCREMENTAL:NO /NOLOGO /LIBPATH:..\3rdparty\mysql\lib libcmt.lib oldnames.lib ws2_32.lib libmysql.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /NODEFAULTLIB /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"..\tools\login-converter.pdb" /SUBSYSTEM:CONSOLE /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE:NO /IMPLIB:"..\tools\login-converter.lib" /MACHINE:X86 /SAFESEH "txt-converter-login\Release\core.obj"
+         "txt-converter-login\Release\db.obj"
+         "txt-converter-login\Release\ers.obj"
+         "txt-converter-login\Release\lock.obj"
+         "txt-converter-login\Release\malloc.obj"
+         "txt-converter-login\Release\showmsg.obj"
+         "txt-converter-login\Release\sql.obj"
+         "txt-converter-login\Release\strlib.obj"
+         "txt-converter-login\Release\timer.obj"
+         "txt-converter-login\Release\utils.obj"
+         "txt-converter-login\Release\account_sql.obj"
+         "txt-converter-login\Release\account_txt.obj"
+         "txt-converter-login\Release\login-converter.obj"
+         Generating code
+         Finished generating code
+         txt-converter-login.vcxproj -> D:\00MEDIAS\Games\RO\Server\renewal\ServerJob3\vcproj-10\..\tools\login-converter.exe
+     1>Done Building Project "D:\00MEDIAS\Games\RO\Server\renewal\ServerJob3\vcproj-10\txt-converter-login.vcxproj" (Rebuild target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:25.00

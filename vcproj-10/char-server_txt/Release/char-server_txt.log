@@ -1,0 +1,64 @@
+﻿Build started 10/20/2015 12:15:04 PM.
+     1>Project "D:\00MEDIAS\Games\RO\Server\renewal\ServerJob3\vcproj-10\char-server_txt.vcxproj" on node 3 (Rebuild target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /I..\3rdparty\msinttypes\include /Zi /nologo /W3 /WX- /O2 /Ob2 /Oi /Ot /Oy /GT /GL /D WIN32 /D _WIN32 /D __WIN32 /D NDEBUG /D TXT_ONLY /D _CRT_SECURE_NO_DEPRECATE /D _CRT_NONSTDC_NO_DEPRECATE /D FD_SETSIZE=4096 /D DB_MANUAL_CAST_TO_UNION /D _VC80_UPGRADE=0x0710 /D _MBCS /GF /Gm- /EHsc /MT /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"char-server_txt\Release\\" /Fd"char-server_txt\Release\vc120.pdb" /Gd /TC /wd4800 /analyze- /errorReport:prompt ..\src\char\char.c ..\src\char\int_guild.c ..\src\char\int_homun.c ..\src\char\int_party.c ..\src\char\int_pet.c ..\src\char\int_status.c ..\src\char\int_storage.c ..\src\char\inter.c ..\src\common\core.c ..\src\common\db.c ..\src\common\ers.c ..\src\common\lock.c ..\src\common\malloc.c ..\src\common\mapindex.c ..\src\common\nullpo.c ..\src\common\plugins.c ..\src\common\showmsg.c ..\src\common\socket.c ..\src\common\strlib.c ..\src\common\timer.c ..\src\common\utils.c
+         char.c
+         int_guild.c
+         int_homun.c
+         int_party.c
+         int_pet.c
+         int_status.c
+         int_storage.c
+         inter.c
+         core.c
+         db.c
+         ers.c
+         lock.c
+         malloc.c
+         mapindex.c
+         nullpo.c
+         plugins.c
+         showmsg.c
+         socket.c
+     1>..\src\common\socket.c(1155): warning C4996: 'gethostbyname': Use getaddrinfo() or GetAddrInfoW() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+                 C:\Program Files (x86)\Windows Kits\8.1\Include\um\winsock2.h(2238) : see declaration of 'gethostbyname'
+     1>..\src\common\socket.c(1301): warning C4996: 'gethostbyname': Use getaddrinfo() or GetAddrInfoW() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+                 C:\Program Files (x86)\Windows Kits\8.1\Include\um\winsock2.h(2238) : see declaration of 'gethostbyname'
+     1>..\src\common\socket.c(1311): warning C4996: 'inet_ntoa': Use inet_ntop() or InetNtop() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+                 C:\Program Files (x86)\Windows Kits\8.1\Include\um\winsock2.h(1868) : see declaration of 'inet_ntoa'
+     1>..\src\common\socket.c(1317): warning C4996: 'inet_addr': Use inet_pton() or InetPton() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+                 C:\Program Files (x86)\Windows Kits\8.1\Include\um\winsock2.h(1850) : see declaration of 'inet_addr'
+         strlib.c
+         timer.c
+         Compiling...
+         utils.c
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"..\char-server.exe" /INCREMENTAL:NO /NOLOGO libcmt.lib oldnames.lib ws2_32.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /NODEFAULTLIB /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"..\char-server.pdb" /SUBSYSTEM:CONSOLE /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE:NO /IMPLIB:"..\char-server.lib" /MACHINE:X86 /SAFESEH "char-server_txt\Release\char.obj"
+         "char-server_txt\Release\int_guild.obj"
+         "char-server_txt\Release\int_homun.obj"
+         "char-server_txt\Release\int_party.obj"
+         "char-server_txt\Release\int_pet.obj"
+         "char-server_txt\Release\int_status.obj"
+         "char-server_txt\Release\int_storage.obj"
+         "char-server_txt\Release\inter.obj"
+         "char-server_txt\Release\core.obj"
+         "char-server_txt\Release\db.obj"
+         "char-server_txt\Release\ers.obj"
+         "char-server_txt\Release\lock.obj"
+         "char-server_txt\Release\malloc.obj"
+         "char-server_txt\Release\mapindex.obj"
+         "char-server_txt\Release\nullpo.obj"
+         "char-server_txt\Release\plugins.obj"
+         "char-server_txt\Release\showmsg.obj"
+         "char-server_txt\Release\socket.obj"
+         "char-server_txt\Release\strlib.obj"
+         "char-server_txt\Release\timer.obj"
+         "char-server_txt\Release\utils.obj"
+         Generating code
+         Finished generating code
+         char-server_txt.vcxproj -> D:\00MEDIAS\Games\RO\Server\renewal\ServerJob3\vcproj-10\..\char-server.exe
+     1>Done Building Project "D:\00MEDIAS\Games\RO\Server\renewal\ServerJob3\vcproj-10\char-server_txt.vcxproj" (Rebuild target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:23.03

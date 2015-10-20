@@ -1,0 +1,24 @@
+prontera,151,187,4	script	Identifier	121,{
+	getinventorylist;
+	for( set .@i,0; .@i < @inventorylist_count; set .@i, .@i + 1 ) {
+		if ( @inventorylist_identify[.@i] == 1 ) continue;
+
+		if ( getskilllv(40) == 1 && sp >= 10 ) heal 0,-10;
+
+		else if ( countitem(611) ) delitem 611,1;
+
+		else if ( getskilllv(224) && zeny >= ( 100 - ( 5 + 4 * getskilllv(224) ) )* 2/5 )
+			set zeny, zeny - ( 100 - ( 5 + 4 * getskilllv(224) ) )* 2/5;
+
+		else if ( getskilllv(37) && zeny >= ( 100 - ( 5 + 2 * getskilllv(37) ) )* 2/5 )
+			set zeny, zeny - ( 100 - ( 5 + 2 * getskilllv(37) ) )* 2/5;
+
+		else if ( zeny >= 40 )  set zeny, zeny - 40;
+
+		else break;
+		delitem2 @inventorylist_id[.@i],1,0,0,0,0,0,0,0;
+		getitem @inventorylist_id[.@i],1;
+	}
+	close;
+	end;
+}

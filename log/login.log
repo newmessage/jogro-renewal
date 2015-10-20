@@ -1,0 +1,538 @@
+2015-10-19 00:06:37	0.0.0.0	login server	100	login server started
+2015-10-19 00:06:38	10.212.8.136	s1	100	charserver - eAthena@10.212.8.136:6121
+2015-10-19 00:07:07	127.0.0.1	alphaproject	0	Unregistered ID.
+2015-10-19 00:07:16	127.0.0.1	alphaproject	100	login ok
+2015-10-19 00:08:11	0.0.0.0	login server	100	login server started
+2015-10-19 00:08:12	10.212.8.136	s1	100	charserver - eAthena@10.212.8.136:6121
+2015-10-19 00:08:31	127.0.0.1	alphaproject	100	login ok
+2015-10-19 00:34:58	127.0.0.1	alphaproject	100	login ok
+2015-10-19 01:09:51	0.0.0.0	login server	100	login server started
+2015-10-19 01:09:52	10.212.8.136	s1	100	charserver - eAthena@10.212.8.136:6121
+2015-10-19 01:09:59	127.0.0.1	alphaproject	100	login ok
+2015-10-19 01:11:05	0.0.0.0	login server	100	login server started
+2015-10-19 01:11:06	10.212.8.136	s1	100	charserver - eAthena@10.212.8.136:6121
+2015-10-19 01:11:11	127.0.0.1	alphaproject	100	login ok
+2015-10-19 01:11:32	0.0.0.0	login server	100	login server started
+2015-10-19 01:11:33	10.212.8.136	s1	100	charserver - eAthena@10.212.8.136:6121
+2015-10-19 01:11:39	127.0.0.1	alphaproject	100	login ok
+2015-10-19 01:16:23	0.0.0.0	login server	100	login server started
+2015-10-19 01:16:24	10.212.8.136	s1	100	charserver - eAthena@10.212.8.136:6121
+2015-10-19 01:16:28	127.0.0.1	alphaproject	100	login ok
+2015-10-19 01:17:29	0.0.0.0	login server	100	login server started
+2015-10-19 01:17:30	10.212.8.136	s1	100	charserver - eAthena@10.212.8.136:6121
+2015-10-19 01:17:32	127.0.0.1	alphaproject	100	login ok
+2015-10-19 01:18:21	0.0.0.0	login server	100	login server started
+2015-10-19 01:18:22	10.212.8.136	s1	100	charserver - eAthena@10.212.8.136:6121
+2015-10-19 01:18:25	127.0.0.1	alphaproject	100	login ok
+2015-10-19 01:19:56	0.0.0.0	login server	100	login server started
+2015-10-19 01:19:57	10.212.8.136	s1	100	charserver - eAthena@10.212.8.136:6121
+2015-10-19 01:20:02	127.0.0.1	alphaproject	1	Incorrect Password.
+2015-10-19 01:20:04	127.0.0.1	alphaproject	100	login ok
+2015-10-19 01:22:45	0.0.0.0	login server	100	login server started
+2015-10-19 01:22:46	10.212.8.136	s1	100	charserver - eAthena@10.212.8.136:6121
+2015-10-19 01:22:51	127.0.0.1	alphaproject	100	login ok
+2015-10-19 07:00:20	0.0.0.0	login server	100	login server started
+2015-10-19 07:00:24	10.212.8.136	s1	100	charserver - eAthena@10.212.8.136:6121
+2015-10-19 07:00:34	127.0.0.1	alphaproject	100	login ok
+2015-10-19 07:05:45	0.0.0.0	login server	100	login server started
+2015-10-19 07:05:46	10.212.8.136	s1	100	charserver - eAthena@10.212.8.136:6121
+2015-10-19 07:05:50	127.0.0.1	alphaproject	100	login ok
+2015-10-19 07:09:16	0.0.0.0	login server	100	login server started
+2015-10-19 07:09:17	10.212.8.136	s1	100	charserver - eAthena@10.212.8.136:6121
+2015-10-19 07:09:21	127.0.0.1	alphaproject	100	login ok
+2015-10-19 07:10:07	0.0.0.0	login server	100	login server started
+2015-10-19 07:10:08	10.212.8.136	s1	100	charserver - eAthena@10.212.8.136:6121
+2015-10-19 07:10:11	127.0.0.1	alphaproject	100	login ok
+2015-10-19 07:11:19	0.0.0.0	login server	100	login server started
+2015-10-19 07:11:20	10.212.8.136	s1	100	charserver - eAthena@10.212.8.136:6121
+2015-10-19 07:11:24	127.0.0.1	alphaproject	100	login ok
+2015-10-19 07:12:36	0.0.0.0	login server	100	login server started
+2015-10-19 07:12:37	10.212.8.136	s1	100	charserver - eAthena@10.212.8.136:6121
+2015-10-19 07:12:41	127.0.0.1	alphaproject	100	login ok
+2015-10-19 07:17:02	0.0.0.0	login server	100	login server started
+2015-10-19 07:17:03	10.212.8.136	s1	100	charserver - eAthena@10.212.8.136:6121
+2015-10-19 07:17:42	0.0.0.0	login server	100	login server started
+2015-10-19 07:17:43	10.212.8.136	s1	100	charserver - eAthena@10.212.8.136:6121
+2015-10-19 07:18:29	0.0.0.0	login server	100	login server started
+2015-10-19 07:18:31	10.212.8.136	s1	100	charserver - eAthena@10.212.8.136:6121
+2015-10-19 07:18:39	0.0.0.0	login server	100	login server started
+2015-10-19 07:18:40	10.212.8.136	s1	100	charserver - eAthena@10.212.8.136:6121
+2015-10-19 07:18:46	127.0.0.1	alphaproject	100	login ok
+2015-10-19 07:26:49	0.0.0.0	login server	100	login server started
+2015-10-19 07:26:50	10.212.8.136	s1	100	charserver - eAthena@10.212.8.136:6121
+2015-10-19 07:29:32	0.0.0.0	login server	100	login server started
+2015-10-19 07:29:33	10.212.8.136	s1	100	charserver - eAthena@10.212.8.136:6121
+2015-10-19 07:30:11	0.0.0.0	login server	100	login server started
+2015-10-19 07:30:12	10.212.8.136	s1	100	charserver - eAthena@10.212.8.136:6121
+2015-10-19 07:30:29	0.0.0.0	login server	100	login server started
+2015-10-19 07:30:30	10.212.8.136	s1	100	charserver - eAthena@10.212.8.136:6121
+2015-10-19 07:30:43	0.0.0.0	login server	100	login server started
+2015-10-19 07:30:44	10.212.8.136	s1	100	charserver - eAthena@10.212.8.136:6121
+2015-10-19 07:31:01	0.0.0.0	login server	100	login server started
+2015-10-19 07:31:02	10.212.8.136	s1	100	charserver - eAthena@10.212.8.136:6121
+2015-10-19 07:31:38	0.0.0.0	login server	100	login server started
+2015-10-19 07:31:40	10.212.8.136	s1	100	charserver - eAthena@10.212.8.136:6121
+2015-10-19 07:31:59	0.0.0.0	login server	100	login server started
+2015-10-19 07:32:00	10.212.8.136	s1	100	charserver - eAthena@10.212.8.136:6121
+2015-10-19 07:32:23	0.0.0.0	login server	100	login server started
+2015-10-19 07:32:24	10.212.8.136	s1	100	charserver - eAthena@10.212.8.136:6121
+2015-10-19 07:35:13	0.0.0.0	login server	100	login server started
+2015-10-19 07:35:14	10.212.8.136	s1	100	charserver - eAthena@10.212.8.136:6121
+2015-10-19 07:35:27	0.0.0.0	login server	100	login server started
+2015-10-19 07:35:28	10.212.8.136	s1	100	charserver - eAthena@10.212.8.136:6121
+2015-10-19 07:35:52	0.0.0.0	login server	100	login server started
+2015-10-19 07:35:53	10.212.8.136	s1	100	charserver - eAthena@10.212.8.136:6121
+2015-10-19 07:36:01	127.0.0.1	alphaproject	100	login ok
+2015-10-19 07:47:55	0.0.0.0	login server	100	login server started
+2015-10-19 07:47:56	10.212.8.136	s1	100	charserver - eAthena@10.212.8.136:6121
+2015-10-19 07:48:00	127.0.0.1	alphaproject	100	login ok
+2015-10-19 07:48:36	0.0.0.0	login server	100	login server started
+2015-10-19 07:48:37	10.212.8.136	s1	100	charserver - eAthena@10.212.8.136:6121
+2015-10-19 07:48:40	127.0.0.1	alphaproject	100	login ok
+2015-10-19 07:58:21	0.0.0.0	login server	100	login server started
+2015-10-19 07:58:22	10.212.8.136	s1	100	charserver - eAthena@10.212.8.136:6121
+2015-10-19 07:58:29	127.0.0.1	alphaproject	100	login ok
+2015-10-19 07:58:46	0.0.0.0	login server	100	login server started
+2015-10-19 07:58:47	10.212.8.136	s1	100	charserver - eAthena@10.212.8.136:6121
+2015-10-19 07:58:52	127.0.0.1	alphaproject	100	login ok
+2015-10-19 12:09:32	0.0.0.0	login server	100	login server started
+2015-10-19 12:09:33	10.212.8.228	s1	100	charserver - JOGRO-Renewal@10.212.8.228:881
+2015-10-19 12:10:03	0.0.0.0	login server	100	login server started
+2015-10-19 12:10:04	10.212.8.228	s1	100	charserver - JOGRO-Renewal@10.212.8.228:881
+2015-10-19 12:11:17	10.212.8.228	noobsee	100	login ok
+2015-10-19 12:11:54	10.212.8.46	tuanmuda	100	login ok
+2015-10-19 12:12:13	10.212.8.46	tuanmuda	100	login ok
+2015-10-19 12:12:23	10.212.8.46	tuanmuda	100	login ok
+2015-10-19 12:12:40	10.212.8.46	tuanmuda	100	login ok
+2015-10-19 12:13:04	10.212.8.46	tuanmuda	100	login ok
+2015-10-19 12:13:07	10.212.8.238	idokun	100	login ok
+2015-10-19 12:13:18	10.212.8.238	idokun	100	login ok
+2015-10-19 12:13:43	10.212.9.31	laque	100	login ok
+2015-10-19 12:13:53	10.212.8.238	idokun	100	login ok
+2015-10-19 12:14:00	10.212.8.238	idokun	100	login ok
+2015-10-19 12:14:36	10.212.9.186	awanadiana	100	login ok
+2015-10-19 12:15:28	10.212.9.186	awanadiana	100	login ok
+2015-10-19 12:15:34	10.212.8.46	telo	100	login ok
+2015-10-19 12:15:40	10.212.9.186	awanadiana	100	login ok
+2015-10-19 12:15:56	10.212.8.46	telo	100	login ok
+2015-10-19 12:16:07	10.212.8.46	telo	100	login ok
+2015-10-19 12:16:29	10.212.9.4	cihcih	100	login ok
+2015-10-19 12:16:57	10.212.8.46	telo	100	login ok
+2015-10-19 12:17:53	10.212.8.46	telo	100	login ok
+2015-10-19 12:20:18	10.212.8.46	telo	100	login ok
+2015-10-19 12:22:13	10.212.9.186	awanadiana	1	Incorrect Password.
+2015-10-19 12:22:17	10.212.9.186	awanadiana	100	login ok
+2015-10-19 12:26:07	10.212.8.135	gondes	100	login ok
+2015-10-19 12:28:37	0.0.0.0	login server	100	login server started
+2015-10-19 12:28:38	10.212.8.228	s1	100	charserver - JOGRO-Renewal@10.212.8.228:881
+2015-10-19 12:28:45	10.212.8.228	noobsee	100	login ok
+2015-10-19 12:29:15	10.212.8.113	mahdun	100	login ok
+2015-10-19 12:29:45	10.212.8.136	alphaproject	100	login ok
+2015-10-19 12:30:06	10.212.8.113	mahdun	100	login ok
+2015-10-19 12:30:27	10.212.8.136	alphaproject	100	login ok
+2015-10-19 12:31:42	0.0.0.0	login server	100	login server started
+2015-10-19 12:31:43	10.212.8.228	s1	100	charserver - JOGRO-Renewal@10.212.8.228:881
+2015-10-19 12:31:52	10.212.8.228	noobsee	100	login ok
+2015-10-19 12:31:57	10.212.8.136	alphaproject	100	login ok
+2015-10-19 12:33:45	10.212.8.136	alphaproject	100	login ok
+2015-10-19 12:36:09	10.212.9.175	andrian	100	login ok
+2015-10-19 12:36:25	10.212.8.228	alphaproject	100	login ok
+2015-10-19 12:37:30	10.212.8.228	noobsee	100	login ok
+2015-10-19 12:39:17	10.212.8.46	telo	100	login ok
+2015-10-19 12:40:57	10.212.8.136	alphaproject	100	login ok
+2015-10-19 12:44:19	10.212.9.194	ayeye	100	login ok
+2015-10-19 12:46:39	10.212.9.194	ayeye	100	login ok
+2015-10-19 12:47:43	10.212.9.186	awanadiana	100	login ok
+2015-10-19 12:50:14	0.0.0.0	login server	100	login server started
+2015-10-19 12:50:15	10.212.8.228	s1	100	charserver - JOGRO-Renewal@10.212.8.228:881
+2015-10-19 12:50:59	10.212.8.228	noobsee	100	login ok
+2015-10-19 12:51:11	10.212.8.46	telo	100	login ok
+2015-10-19 12:51:33	10.212.8.46	telo	100	login ok
+2015-10-19 12:52:30	0.0.0.0	login server	100	login server started
+2015-10-19 12:52:32	10.212.8.228	s1	100	charserver - JOGRO-Renewal@10.212.8.228:881
+2015-10-19 12:52:38	10.212.8.228	noobsee	100	login ok
+2015-10-19 12:54:30	0.0.0.0	login server	100	login server started
+2015-10-19 12:54:31	10.212.8.228	s1	100	charserver - JOGRO-Renewal@10.212.8.228:881
+2015-10-19 12:54:37	10.212.8.228	noobsee	100	login ok
+2015-10-19 12:54:56	0.0.0.0	login server	100	login server started
+2015-10-19 12:54:58	10.212.8.228	s1	100	charserver - JOGRO-Renewal@10.212.8.228:881
+2015-10-19 12:55:11	10.212.8.228	noobsee	100	login ok
+2015-10-19 12:55:59	10.212.8.46	telo	100	login ok
+2015-10-19 12:56:48	0.0.0.0	login server	100	login server started
+2015-10-19 12:56:49	10.212.8.228	s1	100	charserver - JOGRO-Renewal@10.212.8.228:881
+2015-10-19 12:57:08	10.212.8.228	noobsee	100	login ok
+2015-10-19 12:59:13	10.212.8.135	gondes	100	login ok
+2015-10-19 13:01:25	10.212.8.136	alphaproject	100	login ok
+2015-10-19 13:03:57	0.0.0.0	login server	100	login server started
+2015-10-19 13:03:58	10.212.8.228	s1	100	charserver - JOGRO-Renewal@10.212.8.228:881
+2015-10-19 13:04:03	10.212.8.228	noobsee	100	login ok
+2015-10-19 13:04:10	10.212.8.136	alphaproject	100	login ok
+2015-10-19 13:05:24	10.212.8.46	telo	100	login ok
+2015-10-19 13:07:23	0.0.0.0	login server	100	login server started
+2015-10-19 13:07:24	10.212.8.228	s1	100	charserver - JOGRO-Renewal@10.212.8.228:881
+2015-10-19 13:07:28	10.212.8.228	noobsee	100	login ok
+2015-10-19 15:00:46	0.0.0.0	login server	100	login server started
+2015-10-19 15:00:48	10.212.8.228	s1	100	charserver - JOGRO-Renewal@10.212.8.228:881
+2015-10-19 15:11:43	10.212.8.46	telo	100	login ok
+2015-10-19 15:14:37	10.212.8.46	telo	100	login ok
+2015-10-19 15:14:48	10.212.8.46	telo	100	login ok
+2015-10-19 15:15:02	10.212.8.46	telo	100	login ok
+2015-10-19 15:15:49	10.212.8.46	telo	100	login ok
+2015-10-19 15:18:01	10.212.8.46	telo	100	login ok
+2015-10-19 15:18:59	10.212.8.46	telo	100	login ok
+2015-10-19 15:19:10	10.212.8.148	Debugzie	100	login ok
+2015-10-19 15:20:09	10.212.8.46	telo	100	login ok
+2015-10-19 15:21:19	10.212.8.46	telo	100	login ok
+2015-10-19 15:22:29	10.212.8.46	telo	100	login ok
+2015-10-19 15:23:04	10.212.8.46	telo	100	login ok
+2015-10-19 15:30:14	10.212.8.168	kirito	100	login ok
+2015-10-19 15:38:04	10.212.8.228	noobsee	100	login ok
+2015-10-19 15:41:17	10.212.8.46	telo	100	login ok
+2015-10-19 15:42:24	10.212.8.46	telo	100	login ok
+2015-10-19 15:42:37	10.212.8.46	telo	100	login ok
+2015-10-19 15:43:07	10.212.8.46	telo	100	login ok
+2015-10-19 15:47:04	10.212.8.46	telo	100	login ok
+2015-10-19 15:50:52	10.212.8.46	telo	100	login ok
+2015-10-19 15:51:12	10.212.8.228	noobsee	100	login ok
+2015-10-19 15:51:39	10.212.8.253	reenchan	100	login ok
+2015-10-19 15:53:44	10.212.8.228	noobsee	100	login ok
+2015-10-19 15:55:19	10.212.8.238	idokun	100	login ok
+2015-10-19 15:56:01	10.212.8.46	telo	100	login ok
+2015-10-19 15:58:13	10.212.8.46	telo	100	login ok
+2015-10-19 16:02:53	10.212.8.168	kirito	100	login ok
+2015-10-19 16:03:14	10.212.8.168	kirito	100	login ok
+2015-10-19 16:03:58	10.212.8.168	kirito	100	login ok
+2015-10-19 16:04:52	10.212.8.228	noobsee	100	login ok
+2015-10-19 16:07:06	10.212.8.168	kirito	100	login ok
+2015-10-19 16:07:18	10.212.8.46	telo	100	login ok
+2015-10-19 16:07:25	10.212.8.46	telo	100	login ok
+2015-10-19 16:07:40	10.212.8.46	telo	100	login ok
+2015-10-19 16:07:46	10.212.8.228	noobsee	100	login ok
+2015-10-19 16:08:49	10.212.8.228	noobsee	100	login ok
+2015-10-19 16:17:26	10.212.8.46	telo	100	login ok
+2015-10-19 16:17:34	10.212.8.46	telo	100	login ok
+2015-10-19 16:18:26	10.212.8.46	telo	100	login ok
+2015-10-19 16:18:36	10.212.8.46	telo	100	login ok
+2015-10-19 16:22:52	10.212.8.119	fpsz	100	login ok
+2015-10-19 16:24:40	10.212.8.46	telo	100	login ok
+2015-10-19 16:24:55	10.212.8.46	telo	100	login ok
+2015-10-19 16:25:09	10.212.8.46	telo	100	login ok
+2015-10-19 16:26:59	10.212.8.46	telo	100	login ok
+2015-10-19 16:28:05	10.212.8.46	telo	100	login ok
+2015-10-19 16:28:32	10.212.8.46	telo	100	login ok
+2015-10-19 16:29:10	10.212.8.46	telo	100	login ok
+2015-10-19 16:29:13	10.212.9.51	hestutomo	1	Incorrect Password.
+2015-10-19 16:29:18	10.212.9.51	hestutomo	100	login ok
+2015-10-19 16:29:22	10.212.8.33	dino	100	login ok
+2015-10-19 16:29:26	10.212.8.46	telo	100	login ok
+2015-10-19 16:29:44	10.212.8.46	telo	100	login ok
+2015-10-19 16:30:00	10.212.8.33	dino	100	login ok
+2015-10-19 16:30:05	10.212.8.46	telo	100	login ok
+2015-10-19 16:31:32	10.212.8.46	telo	100	login ok
+2015-10-19 16:31:55	10.212.8.46	telo	100	login ok
+2015-10-19 16:33:37	10.212.8.46	telo	100	login ok
+2015-10-19 16:33:52	10.212.8.46	telo	100	login ok
+2015-10-19 16:33:53	10.212.8.253	reenchan	100	login ok
+2015-10-19 16:34:03	10.212.8.228	noobsee	100	login ok
+2015-10-19 16:34:09	10.212.8.46	telo	100	login ok
+2015-10-19 16:34:46	10.212.8.253	reenchan	100	login ok
+2015-10-19 16:34:47	10.212.8.46	telo	100	login ok
+2015-10-19 16:36:16	10.212.8.46	telo	100	login ok
+2015-10-19 16:36:50	10.212.8.33	dino	100	login ok
+2015-10-19 16:37:14	10.212.8.33	dino	100	login ok
+2015-10-19 16:37:32	10.212.8.228	noobsees	100	login ok
+2015-10-19 16:37:38	10.212.8.113	mahdun	100	login ok
+2015-10-19 16:39:09	10.212.8.33	simbah	100	login ok
+2015-10-19 16:39:41	10.212.8.72	aliffaizun	100	login ok
+2015-10-19 16:39:47	10.212.8.33	simbah	100	login ok
+2015-10-19 16:40:11	10.212.8.72	aliffaizun	100	login ok
+2015-10-19 16:41:08	10.212.8.46	telo	100	login ok
+2015-10-19 16:41:17	10.212.8.46	telo	100	login ok
+2015-10-19 16:41:31	10.212.8.46	telo	100	login ok
+2015-10-19 16:41:51	10.212.8.46	telo	100	login ok
+2015-10-19 16:49:19	10.212.8.148	Debugzie	100	login ok
+2015-10-19 16:49:51	10.212.9.197	adadeh	100	login ok
+2015-10-19 16:53:35	10.212.8.72	aliffaizun	100	login ok
+2015-10-19 16:53:37	10.212.9.197	adadeh	100	login ok
+2015-10-19 16:59:00	10.212.9.186	awanadiana	100	login ok
+2015-10-19 16:59:24	10.212.8.205	mowramow	100	login ok
+2015-10-19 16:59:40	10.212.8.162	eiphraim	100	login ok
+2015-10-19 17:00:22	10.212.8.72	aliffaizun	100	login ok
+2015-10-19 17:00:39	10.212.9.38	dimas.kevin77	100	login ok
+2015-10-19 17:01:31	10.212.8.63	sugeng	100	login ok
+2015-10-19 17:01:47	10.212.9.162	kaitoz	100	login ok
+2015-10-19 17:01:53	10.212.8.113	mahdun	100	login ok
+2015-10-19 17:02:31	10.212.8.113	shiina	0	Unregistered ID.
+2015-10-19 17:02:38	10.212.8.113	shiina	100	login ok
+2015-10-19 17:03:00	10.212.8.162	leezor	100	login ok
+2015-10-19 17:03:03	10.212.8.113	mahdun	100	login ok
+2015-10-19 17:03:38	10.212.9.4	cihcih	100	login ok
+2015-10-19 17:03:40	10.212.8.148	Debugzie	100	login ok
+2015-10-19 17:04:11	10.212.8.175	mencoba2	100	login ok
+2015-10-19 17:04:25	10.212.8.63	alluka	100	login ok
+2015-10-19 17:04:50	10.212.8.72	zitnywuri	100	login ok
+2015-10-19 17:05:14	10.212.9.175	andrian	100	login ok
+2015-10-19 17:05:46	10.212.8.148	Debugzie	100	login ok
+2015-10-19 17:07:46	10.212.8.113	mahdun	100	login ok
+2015-10-19 17:07:49	10.212.8.116	aantot	100	login ok
+2015-10-19 17:07:56	10.212.9.162	kaitoz	100	login ok
+2015-10-19 17:08:15	10.212.8.46	telo	100	login ok
+2015-10-19 17:08:42	10.212.8.46	tuanmuda	100	login ok
+2015-10-19 17:09:56	10.212.8.228	noobsee	100	login ok
+2015-10-19 17:11:41	10.212.8.33	dino	100	login ok
+2015-10-19 17:12:20	10.212.9.162	kaitoz	100	login ok
+2015-10-19 17:13:54	10.212.9.197	adadeh	100	login ok
+2015-10-19 17:13:59	10.212.8.168	kirito	100	login ok
+2015-10-19 17:14:58	0.0.0.0	login server	100	login server started
+2015-10-19 17:15:00	10.212.8.228	s1	100	charserver - JOGRO-Renewal@10.212.8.228:881
+2015-10-19 17:15:06	10.212.8.228	noobsee	100	login ok
+2015-10-19 17:15:14	10.212.9.162	kaitoz	100	login ok
+2015-10-19 17:15:15	10.212.9.38	dimas.kevin77	100	login ok
+2015-10-19 17:15:30	10.212.8.46	tuanmuda	100	login ok
+2015-10-19 17:15:31	10.212.9.162	kaitoz	100	login ok
+2015-10-19 17:15:54	10.212.8.33	dino	100	login ok
+2015-10-19 17:16:31	10.212.8.148	Debugzie	100	login ok
+2015-10-19 17:18:04	10.212.8.46	tuanmuda	100	login ok
+2015-10-19 17:18:10	10.212.8.205	mowramow	100	login ok
+2015-10-19 17:18:16	10.212.8.72	aliffaizun	100	login ok
+2015-10-19 17:19:03	10.212.8.46	tuanmuda	100	login ok
+2015-10-19 17:19:12	0.0.0.0	login server	100	login server started
+2015-10-19 17:19:13	10.212.8.228	s1	100	charserver - JOGRO-Renewal@10.212.8.228:881
+2015-10-19 17:19:15	10.212.8.33	dino	100	login ok
+2015-10-19 17:19:15	10.212.8.46	tuanmuda	100	login ok
+2015-10-19 17:19:18	10.212.8.148	Debugzie	100	login ok
+2015-10-19 17:19:19	10.212.8.228	noobsee	100	login ok
+2015-10-19 17:19:37	10.212.9.38	dimas.kevin77	100	login ok
+2015-10-19 17:21:54	10.212.8.72	aliffaizun	100	login ok
+2015-10-19 17:22:10	10.212.9.162	kaitoz	100	login ok
+2015-10-19 17:24:16	10.212.8.72	zitnywuri	100	login ok
+2015-10-19 17:24:38	10.212.8.148	Debugzie	100	login ok
+2015-10-19 17:25:42	10.212.8.162	eiphraim	100	login ok
+2015-10-19 17:26:01	10.212.8.205	mowramow	100	login ok
+2015-10-19 17:26:24	10.212.9.38	dimas.kevin77	100	login ok
+2015-10-19 17:26:25	10.212.8.136	alphaproject	100	login ok
+2015-10-19 17:27:47	10.212.8.72	nikah	100	login ok
+2015-10-19 17:28:44	10.212.8.148	Debugzie	100	login ok
+2015-10-19 17:28:54	10.212.8.33	dino	100	login ok
+2015-10-19 17:29:24	10.212.8.46	tuanmuda	100	login ok
+2015-10-19 17:29:26	10.212.8.33	dino	100	login ok
+2015-10-19 17:30:22	10.212.8.148	Debugzie	100	login ok
+2015-10-19 17:31:31	10.212.8.72	zitnywuri	100	login ok
+2015-10-19 17:31:59	10.212.8.136	alphaproject	100	login ok
+2015-10-19 17:32:12	10.212.8.205	mowramow	100	login ok
+2015-10-19 17:36:38	10.212.8.191	bigramon	100	login ok
+2015-10-19 17:38:13	10.212.8.135	gondes	100	login ok
+2015-10-19 17:38:44	10.212.8.140	jojo	100	login ok
+2015-10-19 17:39:28	10.212.8.140	gendat	100	login ok
+2015-10-19 17:39:46	10.212.8.72	aliffaizun	100	login ok
+2015-10-19 17:39:51	10.212.8.140	Gendat	100	login ok
+2015-10-19 17:42:13	10.212.8.72	zitnywuri	100	login ok
+2015-10-19 17:43:36	10.212.8.168	kirito	100	login ok
+2015-10-19 17:46:01	10.212.8.168	kirito	100	login ok
+2015-10-19 17:48:24	0.0.0.0	login server	100	login server started
+2015-10-19 17:48:27	10.212.8.228	s1	100	charserver - JOGRO-Renewal@10.212.8.228:881
+2015-10-19 17:48:44	10.212.8.228	noobsee	100	login ok
+2015-10-19 17:49:46	10.212.8.148	Debugzie	100	login ok
+2015-10-19 17:49:46	10.212.8.136	alphaproject	100	login ok
+2015-10-19 17:49:57	10.212.8.33	dino	100	login ok
+2015-10-19 17:50:25	0.0.0.0	login server	100	login server started
+2015-10-19 17:50:26	10.212.8.228	s1	100	charserver - JOGRO-Renewal@10.212.8.228:881
+2015-10-19 17:50:31	10.212.8.148	Debugzie	100	login ok
+2015-10-19 17:50:32	10.212.8.228	noobsee	100	login ok
+2015-10-19 17:50:39	10.212.8.33	dino	100	login ok
+2015-10-19 17:51:57	10.212.8.168	kirito	100	login ok
+2015-10-19 17:55:51	10.212.8.136	alphaproject	100	login ok
+2015-10-19 17:55:58	10.212.8.46	tuanmuda	100	login ok
+2015-10-19 17:57:14	10.212.8.135	gondes	100	login ok
+2015-10-19 17:58:40	10.212.8.116	aantot	1	Incorrect Password.
+2015-10-19 17:59:09	10.212.8.228	noobseer	100	login ok
+2015-10-19 17:59:28	10.212.8.116	aantot	100	login ok
+2015-10-19 18:03:24	10.212.8.228	noobsee	100	login ok
+2015-10-19 18:05:54	0.0.0.0	login server	100	login server started
+2015-10-19 18:05:55	10.212.8.228	s1	100	charserver - JOGRO-Renewal@10.212.8.228:881
+2015-10-19 18:05:56	10.212.8.135	gondes	100	login ok
+2015-10-19 18:05:58	10.212.8.46	tuanmuda	100	login ok
+2015-10-19 18:06:01	10.212.8.228	noobsee	100	login ok
+2015-10-19 18:06:02	10.212.8.148	Debugzie	100	login ok
+2015-10-19 18:06:38	10.212.8.33	dino	100	login ok
+2015-10-19 18:08:22	10.212.9.217	seohyun	100	login ok
+2015-10-19 18:09:24	0.0.0.0	login server	100	login server started
+2015-10-19 18:09:25	10.212.8.228	s1	100	charserver - JOGRO-Renewal@10.212.8.228:881
+2015-10-19 18:09:27	10.212.8.135	gondes	100	login ok
+2015-10-19 18:09:27	10.212.8.148	Debugzie	100	login ok
+2015-10-19 18:09:28	10.212.8.46	tuanmuda	100	login ok
+2015-10-19 18:09:31	10.212.8.228	noobsee	100	login ok
+2015-10-19 18:09:32	10.212.8.140	jojo	100	login ok
+2015-10-19 18:09:53	10.212.8.33	dino	100	login ok
+2015-10-19 18:10:13	10.212.8.238	idokun	1	Incorrect Password.
+2015-10-19 18:10:16	10.212.8.238	idokun	1	Incorrect Password.
+2015-10-19 18:10:19	10.212.8.238	idokun	100	login ok
+2015-10-19 18:10:26	10.212.8.205	mowramow	100	login ok
+2015-10-19 18:10:41	10.212.9.162	kaitoz	100	login ok
+2015-10-19 18:12:16	10.212.8.136	alphaproject	100	login ok
+2015-10-19 18:13:32	10.212.9.162	kaitoz	100	login ok
+2015-10-19 18:13:42	10.212.8.148	Debugzie	100	login ok
+2015-10-19 18:19:41	10.212.8.116	aantot	100	login ok
+2015-10-19 18:22:30	10.212.9.162	kaitoz	100	login ok
+2015-10-19 18:25:31	10.212.8.148	Debugzie	100	login ok
+2015-10-19 18:26:50	10.212.8.148	Debugzie	100	login ok
+2015-10-19 18:26:53	0.0.0.0	login server	100	login server started
+2015-10-19 18:26:54	10.212.8.228	s1	100	charserver - JOGRO-Renewal@10.212.8.228:881
+2015-10-19 18:26:54	10.212.8.116	aantot	100	login ok
+2015-10-19 18:26:55	10.212.8.135	gondes	100	login ok
+2015-10-19 18:26:55	10.212.8.46	tuanmuda	100	login ok
+2015-10-19 18:26:58	10.212.8.148	Debugzie	100	login ok
+2015-10-19 18:27:04	10.212.8.228	noobsee	100	login ok
+2015-10-19 18:27:17	10.212.8.136	alphaproject	100	login ok
+2015-10-19 18:27:58	10.212.8.205	mowramow	100	login ok
+2015-10-19 18:30:23	10.212.8.96	araraga	100	login ok
+2015-10-19 18:35:55	10.212.9.162	kaitoz	100	login ok
+2015-10-19 18:35:59	10.212.8.72	zitnywuri	100	login ok
+2015-10-19 18:39:24	10.212.8.136	alphaproject	100	login ok
+2015-10-19 18:41:11	10.212.8.136	alphaproject	100	login ok
+2015-10-19 18:46:36	10.212.8.56	priyo_santos	100	login ok
+2015-10-19 18:48:44	10.212.8.228	noobsee	100	login ok
+2015-10-19 18:52:21	0.0.0.0	login server	100	login server started
+2015-10-19 18:52:22	10.212.8.228	s1	100	charserver - JOGRO-Renewal@10.212.8.228:881
+2015-10-19 18:52:25	10.212.8.148	Debugzie	100	login ok
+2015-10-19 18:52:45	10.212.9.162	kaitoz	100	login ok
+2015-10-19 18:53:45	10.212.8.136	alphaproject	100	login ok
+2015-10-19 18:56:20	10.212.8.72	zitnywuri	1	Incorrect Password.
+2015-10-19 18:56:24	10.212.8.72	zitnywuri	1	Incorrect Password.
+2015-10-19 18:56:34	10.212.8.72	aliffaizun	100	login ok
+2015-10-19 18:56:57	10.212.8.205	mowramow	100	login ok
+2015-10-19 18:58:37	10.212.8.72	zitnywuri	100	login ok
+2015-10-19 19:11:40	10.212.8.205	mowramow	100	login ok
+2015-10-19 19:16:30	10.212.8.228	noobsee	100	login ok
+2015-10-19 19:20:53	10.212.8.168	kirito	100	login ok
+2015-10-19 19:21:47	10.212.8.168	kirito	100	login ok
+2015-10-19 19:29:59	10.212.8.175	mencoba2	100	login ok
+2015-10-19 19:35:06	0.0.0.0	login server	100	login server started
+2015-10-19 19:35:10	10.212.8.228	s1	100	charserver - JOGRO-Renewal@10.212.8.228:881
+2015-10-19 19:35:31	10.212.8.228	noobsee	100	login ok
+2015-10-19 19:36:05	10.212.8.175	mencoba2	100	login ok
+2015-10-19 19:36:13	10.212.8.168	kirito	100	login ok
+2015-10-19 19:36:19	10.212.9.162	kaitoz	100	login ok
+2015-10-19 19:38:01	0.0.0.0	login server	100	login server started
+2015-10-19 19:38:02	10.212.8.228	s1	100	charserver - JOGRO-Renewal@10.212.8.228:881
+2015-10-19 19:38:06	10.212.8.228	noobsee	100	login ok
+2015-10-19 19:38:11	10.212.9.162	kaitoz	100	login ok
+2015-10-19 19:39:15	10.212.8.168	kirito	100	login ok
+2015-10-19 19:40:42	10.212.8.175	mencoba2	100	login ok
+2015-10-19 19:43:17	10.212.8.162	weawea	0	Unregistered ID.
+2015-10-19 19:43:23	10.212.8.162	eiphraim	100	login ok
+2015-10-19 19:49:29	10.212.8.162	leezor	100	login ok
+2015-10-19 19:49:59	10.212.8.175	mencoba3	100	login ok
+2015-10-19 20:00:54	10.212.8.33	dino	100	login ok
+2015-10-19 20:07:40	10.212.8.253	reenchan	100	login ok
+2015-10-19 20:08:05	10.212.9.197	adadeh	100	login ok
+2015-10-19 20:08:19	10.212.8.244	Martin	100	login ok
+2015-10-19 20:09:36	10.212.8.168	kirito	100	login ok
+2015-10-19 20:17:55	10.212.8.179	husnie	100	login ok
+2015-10-19 20:19:03	0.0.0.0	login server	100	login server started
+2015-10-19 20:19:07	10.212.8.228	s1	100	charserver - JOGRO-Renewal@10.212.8.228:881
+2015-10-19 20:19:23	10.212.8.228	noobsee	100	login ok
+2015-10-19 20:19:52	10.212.9.162	kaitoz	100	login ok
+2015-10-19 20:19:57	10.212.8.179	husnie	100	login ok
+2015-10-19 20:20:13	10.212.8.179	phiyik	100	login ok
+2015-10-19 20:21:03	0.0.0.0	login server	100	login server started
+2015-10-19 20:21:04	10.212.8.228	s1	100	charserver - JOGRO-Renewal@10.212.8.228:881
+2015-10-19 20:21:20	10.212.8.228	noobsee	100	login ok
+2015-10-19 20:21:34	10.212.9.4	cihcih	100	login ok
+2015-10-19 20:21:49	10.212.8.175		0	Unregistered ID.
+2015-10-19 20:21:55	10.212.8.175	mencoba3	100	login ok
+2015-10-19 20:21:59	10.212.9.162	kaitoz	1	Incorrect Password.
+2015-10-19 20:22:03	10.212.9.162	kaitoz	100	login ok
+2015-10-20 11:03:47	0.0.0.0	login server	100	login server started
+2015-10-20 11:03:52	10.212.8.228	s1	100	charserver - JOGRO-Renewal@10.212.8.228:881
+2015-10-20 11:04:20	10.212.8.228	noobsee	100	login ok
+2015-10-20 11:05:50	10.212.8.148	Debugzie	100	login ok
+2015-10-20 11:12:28	10.212.8.228	noobsee	100	login ok
+2015-10-20 11:13:12	10.212.8.46	tuanmuda	100	login ok
+2015-10-20 11:19:48	10.212.8.238	idokun	1	Incorrect Password.
+2015-10-20 11:19:52	10.212.8.238	idokun	100	login ok
+2015-10-20 11:21:22	10.212.8.33	dino	100	login ok
+2015-10-20 11:29:16	0.0.0.0	login server	100	login server started
+2015-10-20 11:29:28	10.212.8.228	s1	100	charserver - JOGRO-Renewal@10.212.8.228:881
+2015-10-20 11:32:14	0.0.0.0	login server	100	login server started
+2015-10-20 11:32:15	10.212.8.228	s1	100	charserver - JOGRO-Renewal@10.212.8.228:881
+2015-10-20 11:42:47	10.212.8.46	telo	100	login ok
+2015-10-20 11:43:20	10.212.8.228	noobsee	100	login ok
+2015-10-20 11:45:52	10.212.8.46	telo	100	login ok
+2015-10-20 12:01:45	0.0.0.0	login server	100	login server started
+2015-10-20 12:01:50	10.212.8.228	s1	100	charserver - JOGRO-Renewal@10.212.8.228:881
+2015-10-20 12:01:51	10.212.8.46	tuanmuda	100	login ok
+2015-10-20 12:01:57	10.212.8.46	tuanmuda	100	login ok
+2015-10-20 12:02:02	10.212.8.46	tuanmuda	100	login ok
+2015-10-20 12:02:07	10.212.9.183	coli	100	login ok
+2015-10-20 12:02:17	10.212.8.228	noobsee	100	login ok
+2015-10-20 12:02:18	10.212.9.162	kaitoz	100	login ok
+2015-10-20 12:02:27	10.212.8.46	tuanmuda	100	login ok
+2015-10-20 12:02:37	10.212.8.148	Debugzie	100	login ok
+2015-10-20 12:02:38	10.212.9.4	cihcih	100	login ok
+2015-10-20 12:02:48	10.212.8.46	tuanmuda	100	login ok
+2015-10-20 12:08:10	0.0.0.0	login server	100	login server started
+2015-10-20 12:08:11	10.212.8.228	s1	100	charserver - JOGRO-Renewal@10.212.8.228:881
+2015-10-20 12:08:16	10.212.8.228	noobsee	100	login ok
+2015-10-20 12:08:29	10.212.9.146	diasigma	100	login ok
+2015-10-20 12:08:41	10.212.9.146	killanua	100	login ok
+2015-10-20 12:09:44	10.212.8.33	dino	100	login ok
+2015-10-20 12:09:48	10.212.8.148	Debugzie	100	login ok
+2015-10-20 12:10:10	10.212.8.191	bigramon	100	login ok
+2015-10-20 12:16:11	0.0.0.0	login server	100	login server started
+2015-10-20 12:16:12	10.212.8.228	s1	100	charserver - JOGRO-Renewal@10.212.8.228:881
+2015-10-20 12:16:19	10.212.8.46	tuanmuda	100	login ok
+2015-10-20 12:16:25	10.212.8.46	tuanmuda	100	login ok
+2015-10-20 12:16:25	10.212.8.228	noobsee	100	login ok
+2015-10-20 12:16:48	10.212.9.159	zoroichi	100	login ok
+2015-10-20 12:16:49	10.212.9.146	diasigma	1	Incorrect Password.
+2015-10-20 12:17:12	10.212.9.146	killanua	100	login ok
+2015-10-20 12:18:03	10.212.8.136	alphaproject	100	login ok
+2015-10-20 12:18:29	10.212.8.46	tuanmuda	100	login ok
+2015-10-20 12:18:57	10.212.8.46	runa	100	login ok
+2015-10-20 12:19:57	10.212.8.46	tuanmuda	100	login ok
+2015-10-20 12:20:46	10.212.8.33	dino	100	login ok
+2015-10-20 12:22:15	10.212.9.146	killanua	100	login ok
+2015-10-20 12:24:19	10.212.8.148	Debugzie	100	login ok
+2015-10-20 12:25:53	10.212.9.194	ayeye	100	login ok
+2015-10-20 12:29:04	10.212.9.105	EvannDS	100	login ok
+2015-10-20 12:29:33	10.212.9.183	coli	100	login ok
+2015-10-20 12:45:24	10.212.8.46	tuanmuda	100	login ok
+2015-10-20 12:50:00	10.212.8.136	alphaproject2	100	login ok
+2015-10-20 12:52:17	10.212.8.179	phiyik	100	login ok
+2015-10-20 12:55:07	10.212.8.136	alphaproject	100	login ok
+2015-10-20 12:57:32	10.212.8.205	mowramow	100	login ok
+2015-10-20 12:58:24	10.212.8.72	aliffaizun	100	login ok
+2015-10-20 12:58:30	10.212.9.105	EvannDS	100	login ok
+2015-10-20 13:00:26	10.212.8.238	idokun	1	Incorrect Password.
+2015-10-20 13:00:28	10.212.8.238	idokun	1	Incorrect Password.
+2015-10-20 13:00:31	10.212.8.238	idokun	100	login ok
+2015-10-20 13:00:53	10.212.8.238	idokun	100	login ok
+2015-10-20 13:03:37	10.212.9.196	lali	100	login ok
+2015-10-20 13:03:42	10.212.9.196	lali	100	login ok
+2015-10-20 13:07:46	10.212.9.186	awanadiana	100	login ok
+2015-10-20 13:08:25	0.0.0.0	login server	100	login server started
+2015-10-20 13:08:26	10.212.8.228	s1	100	charserver - JOGRO-Renewal@10.212.8.228:881
+2015-10-20 13:08:36	10.212.8.228	noobsee	100	login ok
+2015-10-20 13:08:43	10.212.8.46	runa	100	login ok
+2015-10-20 13:10:19	0.0.0.0	login server	100	login server started
+2015-10-20 13:10:20	10.212.8.228	s1	100	charserver - JOGRO-Renewal@10.212.8.228:881
+2015-10-20 13:10:23	10.212.8.228	noobsee	100	login ok
+2015-10-20 13:10:32	10.212.8.46	runa	100	login ok
+2015-10-20 13:13:14	0.0.0.0	login server	100	login server started
+2015-10-20 13:13:15	10.212.8.228	s1	100	charserver - JOGRO-Renewal@10.212.8.228:881
+2015-10-20 13:13:15	10.212.8.46	runa	100	login ok
+2015-10-20 13:13:19	10.212.8.228	noobsee	100	login ok
+2015-10-20 13:14:28	0.0.0.0	login server	100	login server started
+2015-10-20 13:14:29	10.212.8.228	s1	100	charserver - JOGRO-Renewal@10.212.8.228:881
+2015-10-20 13:14:37	10.212.8.228	noobsee	100	login ok
+2015-10-20 13:14:49	10.212.8.191	bigramon	100	login ok
+2015-10-20 13:15:46	10.212.8.46	runa	100	login ok
+2015-10-20 13:20:26	10.212.8.46	runa	100	login ok
+2015-10-20 13:25:19	10.212.8.33	dino	100	login ok
+2015-10-20 13:28:42	10.212.8.33	dino	100	login ok
+2015-10-20 13:31:19	10.212.8.33	lala	100	login ok
+2015-10-20 13:50:53	10.212.8.228	noobsee	100	login ok
+2015-10-20 14:46:17	10.212.8.168	kirito	100	login ok
+2015-10-20 14:57:22	10.212.8.148	Debugzie	100	login ok
+2015-10-20 14:58:20	10.212.8.148	Debugzie	100	login ok

@@ -1,0 +1,187 @@
+//____________________________________________________________________
+//~* ___ ___ ___ ___ ___ |
+//~* /\ \ /\ \ /\ \ /\__\ |\__\ |
+//~* /::\ \ /::\ \ /::\ \ /:/ / |:| | |
+//~* /:/\:\ \ /:/\:\ \ /:/\:\ \ /:/ / |:| | |
+//~* /::\~\:\ \ /::\~\:\ \ /::\~\:\ \ /:/ / |:|__|__ |
+//~* /:/\:\ \:\__\ /:/\:\ \:\__\ /:/\:\ \:\__\ /:/__/ /::::\__\|
+//~* \/_|::\/:/ / \:\~\:\ \/__/ \/__\:\/:/ / \:\ \ /:/~~/~ |
+//~* |:|::/ / \:\ \:\__\ \::/ / \:\ \ /:/ / |
+//~* |:|\/__/ \:\ \/__/ \/__/ \:\ \ \/__/ |
+//~* |:| | \:\__\ \:\__\ |
+//~* \|__| \/__/ \/__/ |
+//~* ___ ___ ____ ____ ____ ____ ___ |
+//~* / __) / __)( _ \(_ _)( _ \(_ _)/ __) |
+//~* \__ \( (__ ) / _)(_ )___/ )( \__ \ |
+//~* (___/ \___)(_)\_)(____)(__) (__) (___/ |
+//~* ___ _ ___ _____ |
+//~* ( _`\ ( )_ | _`\ ( _ ) |
+//~* | (_(_) _ _ _ __ __ | ,_)| (_) )| ( ) | |
+//~* `\__ \ ( ) ( ) ( ) /'__`\ /'__`\| | | , / | | | | |
+//~* ( )_) || \_/ \_/ |( ___/( ___/| |_ | |\ \ | (_) | |
+//~* `\____)`\___x___/'`\____)`\____)`\__)(_) (_)(_____) |
+//~* Basic NPCs � 2007-2008 Reply. Projects |
+//~* |
+//~* |
+//~* |
+//(-)(-)(-)(-)(-)(-)(-)(-)(-)(-)(-)(-)(-)(-)(-)(-)(-)(-)(-)(-)(-)(-)(-)
+//===== Drops Script =========================================
+//= Baby Job Changer
+//===== Por ==================================================
+//= Reply.
+//===== Vers�o ===============================================
+//= 1.0
+//===== Compativel Com =======================================
+//= eAthena SVN
+//===== Descri��o ============================================
+//= Npc que te transforma em baby sem necessidade dos pais.
+//===== Coment�rios ==========================================
+//= 1.0 - NPC Criado Reply.
+//= Super Hiper Mega ajuda de Zero(Nicko)
+//============================================================
+
+ prontera,146,197,4	script	Job Baby Master	716,{
+	//===========Vari�veis========================================
+	set nome$, "[Baby JobChanger]";
+	//============================================================
+	if((Class == 0) && (JobLevel >9))
+	{
+		mes "JobLevel: "+ JobLevel;
+		mes "Class: "+Class;
+		switch(select("Baby Novice","Nothing"))
+		{
+			case 1:
+			jobchange 4023;
+			break;
+			case 2:
+			mes "Back when I can help you!";
+			break;
+		}
+	}
+	else if((Class == 4023) && (JobLevel >9))
+	{
+		switch(select("Baby Swordsman","Baby Magician","Baby Archer","Baby Acolyte","Baby Merchant","Baby Thief","Baby Super ovice","Nothing"))
+		{
+			case 1:
+			jobchange 4024;
+			break;
+			case 2:
+			jobchange 4025;
+			break;
+			case 3:
+			jobchange 4026;
+			break;
+			case 4:
+			jobchange 4027;
+			break;
+			case 5:
+			jobchange 4028;
+			break;
+			case 6:
+			jobchange 4029;
+			break;
+			case 7:
+			jobchange 4045;
+			break;
+			case 8:
+			mes "Back when I can help you!";
+			break;
+		}
+	}
+	else if((Class == 4024) && (JobLevel >39))
+	{ 
+		switch(select("Baby Knight","Baby Crusader","Nothing"))
+		{
+			case 1:
+			jobchange 4030;
+			break;
+			case 2:
+			jobchange 4037;
+			break;
+			case 3:
+			mes "Back when I can help you!";
+			break;
+		}
+	}
+	else if((Class == 4025) && (JobLevel >39))
+	{
+		switch(select("Baby Wizard","Baby Sage","Nothing"))
+		{
+			case 1:
+			jobchange 4032;
+			break;
+			case 2:
+			jobchange 4039;
+			break;
+			case 3:
+			mes "Back when I can help you!";
+			break;
+		}
+	}
+	else if((Class == 4026) && (JobLevel >39))
+	{
+		switch(select("Baby Hunter","Baby Bard","Baby Dancer","Nothing"))
+		{
+			case 1:
+			jobchange 4034;
+			break;
+			case 2:
+			jobchange 4042;
+			break;
+			case 3:
+			jobchange 4043;
+			break;
+			case 4:
+			mes "Back when I can help you!";
+			break;
+		}
+	}
+	else if((Class == 4027) && (JobLevel >39))
+	{
+		switch(select("Baby Priest","Baby Monk","Nothing"))
+		{
+			case 1:
+			jobchange 4031;
+			break;
+			case 2:
+			jobchange 4038;
+			break;
+			case 3:
+			mes "Back when I can help you!";
+			break;
+		}
+	}
+	else if((Class == 4028) & (JobLevel > 39))
+	{ 
+		switch(select("Baby Blacksmith","Baby Alchemist","Nothing"))
+		{
+			case 1:
+			jobchange 4033;
+			break;
+			case 2:
+			jobchange 4041;
+			break;
+			case 3:
+			mes "Back when I can help you!";
+			break;
+		}
+	}
+	else if((Class == 4029) && (JobLevel > 39))
+	{
+		switch(select("Baby Assassin","Baby Rogue","Nothing"))
+		{
+			case 1:
+			jobchange 4035;
+			break;
+			case 2:
+			jobchange 4040;
+			break;
+			case 3:
+			mes "Back when I can help you!";
+			break;
+		}
+	}
+	else
+	mes "I cant help you! Sorry!";
+	close;
+}

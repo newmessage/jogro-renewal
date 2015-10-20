@@ -1,0 +1,66 @@
+﻿Build started 10/20/2015 12:15:28 PM.
+     1>Project "D:\00MEDIAS\Games\RO\Server\renewal\ServerJob3\vcproj-10\txt-converter-char.vcxproj" on node 3 (Rebuild target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /I..\3rdparty\mysql\include /I..\3rdparty\msinttypes\include /Zi /nologo /W3 /WX- /O2 /Ob2 /Oi /Ot /Oy /GT /GL /D WIN32 /D _WIN32 /D __WIN32 /D NDEBUG /D _CRT_SECURE_NO_DEPRECATE /D _CRT_NONSTDC_NO_DEPRECATE /D FD_SETSIZE=4096 /D DB_MANUAL_CAST_TO_UNION /D MINICORE /D TXT_SQL_CONVERT /D _VC80_UPGRADE=0x0710 /D _MBCS /GF /Gm- /EHsc /MT /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"txt-converter-char\Release\\" /Fd"txt-converter-char\Release\vc120.pdb" /Gd /TC /analyze- /errorReport:prompt ..\src\char\char.c ..\src\char\int_guild.c ..\src\char\int_party.c ..\src\char\int_pet.c ..\src\char\int_storage.c ..\src\char\inter.c ..\src\common\core.c ..\src\common\ers.c ..\src\common\malloc.c ..\src\common\mapindex.c ..\src\common\showmsg.c ..\src\common\sql.c ..\src\common\strlib.c ..\src\common\timer.c ..\src\common\utils.c "..\src\txt-converter\char-converter.c"
+         char.c
+         int_guild.c
+         int_party.c
+         int_pet.c
+         int_storage.c
+         inter.c
+         core.c
+         ers.c
+         malloc.c
+         mapindex.c
+         showmsg.c
+         sql.c
+         strlib.c
+         timer.c
+         utils.c
+         char-converter.c
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /I..\3rdparty\mysql\include /I..\3rdparty\msinttypes\include /Zi /nologo /W3 /WX- /O2 /Ob2 /Oi /Ot /Oy /GT /GL /D WIN32 /D _WIN32 /D __WIN32 /D NDEBUG /D _CRT_SECURE_NO_DEPRECATE /D _CRT_NONSTDC_NO_DEPRECATE /D FD_SETSIZE=4096 /D DB_MANUAL_CAST_TO_UNION /D MINICORE /D TXT_SQL_CONVERT /D _VC80_UPGRADE=0x0710 /D _MBCS /GF /Gm- /EHsc /MT /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"txt-converter-char\Release\char_sql.obj" /Fd"txt-converter-char\Release\vc120.pdb" /Gd /TC /analyze- /errorReport:prompt ..\src\char_sql\char.c
+         char.c
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /I..\3rdparty\mysql\include /I..\3rdparty\msinttypes\include /Zi /nologo /W3 /WX- /O2 /Ob2 /Oi /Ot /Oy /GT /GL /D WIN32 /D _WIN32 /D __WIN32 /D NDEBUG /D _CRT_SECURE_NO_DEPRECATE /D _CRT_NONSTDC_NO_DEPRECATE /D FD_SETSIZE=4096 /D DB_MANUAL_CAST_TO_UNION /D MINICORE /D TXT_SQL_CONVERT /D _VC80_UPGRADE=0x0710 /D _MBCS /GF /Gm- /EHsc /MT /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"txt-converter-char\Release\int_guild_sql.obj" /Fd"txt-converter-char\Release\vc120.pdb" /Gd /TC /analyze- /errorReport:prompt ..\src\char_sql\int_guild.c
+         int_guild.c
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /I..\3rdparty\mysql\include /I..\3rdparty\msinttypes\include /Zi /nologo /W3 /WX- /O2 /Ob2 /Oi /Ot /Oy /GT /GL /D WIN32 /D _WIN32 /D __WIN32 /D NDEBUG /D _CRT_SECURE_NO_DEPRECATE /D _CRT_NONSTDC_NO_DEPRECATE /D FD_SETSIZE=4096 /D DB_MANUAL_CAST_TO_UNION /D MINICORE /D TXT_SQL_CONVERT /D _VC80_UPGRADE=0x0710 /D _MBCS /GF /Gm- /EHsc /MT /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"txt-converter-char\Release\int_mercenary_sql.obj" /Fd"txt-converter-char\Release\vc120.pdb" /Gd /TC /analyze- /errorReport:prompt ..\src\char_sql\int_mercenary.c
+         int_mercenary.c
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /I..\3rdparty\mysql\include /I..\3rdparty\msinttypes\include /Zi /nologo /W3 /WX- /O2 /Ob2 /Oi /Ot /Oy /GT /GL /D WIN32 /D _WIN32 /D __WIN32 /D NDEBUG /D _CRT_SECURE_NO_DEPRECATE /D _CRT_NONSTDC_NO_DEPRECATE /D FD_SETSIZE=4096 /D DB_MANUAL_CAST_TO_UNION /D MINICORE /D TXT_SQL_CONVERT /D _VC80_UPGRADE=0x0710 /D _MBCS /GF /Gm- /EHsc /MT /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"txt-converter-char\Release\int_party_sql.obj" /Fd"txt-converter-char\Release\vc120.pdb" /Gd /TC /analyze- /errorReport:prompt ..\src\char_sql\int_party.c
+         int_party.c
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /I..\3rdparty\mysql\include /I..\3rdparty\msinttypes\include /Zi /nologo /W3 /WX- /O2 /Ob2 /Oi /Ot /Oy /GT /GL /D WIN32 /D _WIN32 /D __WIN32 /D NDEBUG /D _CRT_SECURE_NO_DEPRECATE /D _CRT_NONSTDC_NO_DEPRECATE /D FD_SETSIZE=4096 /D DB_MANUAL_CAST_TO_UNION /D MINICORE /D TXT_SQL_CONVERT /D _VC80_UPGRADE=0x0710 /D _MBCS /GF /Gm- /EHsc /MT /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"txt-converter-char\Release\int_pet_sql.obj" /Fd"txt-converter-char\Release\vc120.pdb" /Gd /TC /analyze- /errorReport:prompt ..\src\char_sql\int_pet.c
+         int_pet.c
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /I..\3rdparty\mysql\include /I..\3rdparty\msinttypes\include /Zi /nologo /W3 /WX- /O2 /Ob2 /Oi /Ot /Oy /GT /GL /D WIN32 /D _WIN32 /D __WIN32 /D NDEBUG /D _CRT_SECURE_NO_DEPRECATE /D _CRT_NONSTDC_NO_DEPRECATE /D FD_SETSIZE=4096 /D DB_MANUAL_CAST_TO_UNION /D MINICORE /D TXT_SQL_CONVERT /D _VC80_UPGRADE=0x0710 /D _MBCS /GF /Gm- /EHsc /MT /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"txt-converter-char\Release\int_storage_sql.obj" /Fd"txt-converter-char\Release\vc120.pdb" /Gd /TC /analyze- /errorReport:prompt ..\src\char_sql\int_storage.c
+         int_storage.c
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /I..\3rdparty\mysql\include /I..\3rdparty\msinttypes\include /Zi /nologo /W3 /WX- /O2 /Ob2 /Oi /Ot /Oy /GT /GL /D WIN32 /D _WIN32 /D __WIN32 /D NDEBUG /D _CRT_SECURE_NO_DEPRECATE /D _CRT_NONSTDC_NO_DEPRECATE /D FD_SETSIZE=4096 /D DB_MANUAL_CAST_TO_UNION /D MINICORE /D TXT_SQL_CONVERT /D _VC80_UPGRADE=0x0710 /D _MBCS /GF /Gm- /EHsc /MT /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"txt-converter-char\Release\inter_sql.obj" /Fd"txt-converter-char\Release\vc120.pdb" /Gd /TC /analyze- /errorReport:prompt ..\src\char_sql\inter.c
+         inter.c
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"..\tools\char-converter.exe" /INCREMENTAL:NO /NOLOGO /LIBPATH:..\3rdparty\mysql\lib libcmt.lib oldnames.lib ws2_32.lib libmysql.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /NODEFAULTLIB /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"..\tools\char-converter.pdb" /SUBSYSTEM:CONSOLE /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE:NO /IMPLIB:"..\tools\char-converter.lib" /MACHINE:X86 /SAFESEH "txt-converter-char\Release\char.obj"
+         "txt-converter-char\Release\int_guild.obj"
+         "txt-converter-char\Release\int_party.obj"
+         "txt-converter-char\Release\int_pet.obj"
+         "txt-converter-char\Release\int_storage.obj"
+         "txt-converter-char\Release\inter.obj"
+         "txt-converter-char\Release\core.obj"
+         "txt-converter-char\Release\ers.obj"
+         "txt-converter-char\Release\malloc.obj"
+         "txt-converter-char\Release\mapindex.obj"
+         "txt-converter-char\Release\showmsg.obj"
+         "txt-converter-char\Release\sql.obj"
+         "txt-converter-char\Release\strlib.obj"
+         "txt-converter-char\Release\timer.obj"
+         "txt-converter-char\Release\utils.obj"
+         "txt-converter-char\Release\char-converter.obj"
+         "txt-converter-char\Release\char_sql.obj"
+         "txt-converter-char\Release\int_guild_sql.obj"
+         "txt-converter-char\Release\int_mercenary_sql.obj"
+         "txt-converter-char\Release\int_party_sql.obj"
+         "txt-converter-char\Release\int_pet_sql.obj"
+         "txt-converter-char\Release\int_storage_sql.obj"
+         "txt-converter-char\Release\inter_sql.obj"
+         Generating code
+         Finished generating code
+         txt-converter-char.vcxproj -> D:\00MEDIAS\Games\RO\Server\renewal\ServerJob3\vcproj-10\..\tools\char-converter.exe
+     1>Done Building Project "D:\00MEDIAS\Games\RO\Server\renewal\ServerJob3\vcproj-10\txt-converter-char.vcxproj" (Rebuild target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:13.27

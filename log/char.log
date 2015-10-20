@@ -1,0 +1,858 @@
+
+19-10-2015 00:06:37: The char-server starting...
+19-10-2015 00:06:37: mmo_char_init: No character found in save/athena.txt.
+19-10-2015 00:06:37: Id for the next created character: 150000.
+19-10-2015 00:06:37: The char-server is ready (Server is listening on the port 6121).
+19-10-2015 00:06:39: Map-Server 0 connected: 804 maps, from IP 10.212.8.136 port 5121. Map-server 0 loading complete.
+19-10-2015 00:07:20: make new char: account: 2000002, slot 0, name: Sasa, stats: 1/1/1/1/1/1, hair: 1, hair color: 0.
+19-10-2015 00:07:21: Character Selected, Account ID: 2000002, Character Slot: 0, Character Name: Sasa.
+
+19-10-2015 00:08:11: The char-server starting...
+19-10-2015 00:08:11: mmo_char_init: 1 character read in save/athena.txt.
+19-10-2015 00:08:11: Id for the next created character: 150001.
+19-10-2015 00:08:11: The char-server is ready (Server is listening on the port 6121).
+19-10-2015 00:08:13: Map-Server 0 connected: 804 maps, from IP 10.212.8.136 port 5121. Map-server 0 loading complete.
+19-10-2015 00:08:31: Character Selected, Account ID: 2000002, Character Slot: 0, Character Name: Sasa.
+19-10-2015 00:35:00: Character Selected, Account ID: 2000002, Character Slot: 0, Character Name: Sasa.
+
+19-10-2015 01:09:38: The char-server starting...
+19-10-2015 01:09:38: mmo_char_init: 1 character read in save/athena.txt.
+19-10-2015 01:09:38: Id for the next created character: 150001.
+
+19-10-2015 01:09:51: The char-server starting...
+19-10-2015 01:09:51: mmo_char_init: 1 character read in save/athena.txt.
+19-10-2015 01:09:51: Id for the next created character: 150001.
+19-10-2015 01:09:51: The char-server is ready (Server is listening on the port 6121).
+19-10-2015 01:09:53: Map-Server 0 connected: 804 maps, from IP 10.212.8.136 port 5121. Map-server 0 loading complete.
+19-10-2015 01:10:00: Character Selected, Account ID: 2000002, Character Slot: 0, Character Name: Sasa.
+
+19-10-2015 01:11:05: The char-server starting...
+19-10-2015 01:11:05: mmo_char_init: 1 character read in save/athena.txt.
+19-10-2015 01:11:05: Id for the next created character: 150001.
+19-10-2015 01:11:05: The char-server is ready (Server is listening on the port 6121).
+19-10-2015 01:11:07: Map-Server 0 connected: 804 maps, from IP 10.212.8.136 port 5121. Map-server 0 loading complete.
+19-10-2015 01:11:13: Character Selected, Account ID: 2000002, Character Slot: 0, Character Name: Sasa.
+
+19-10-2015 01:11:32: The char-server starting...
+19-10-2015 01:11:32: mmo_char_init: 1 character read in save/athena.txt.
+19-10-2015 01:11:32: Id for the next created character: 150001.
+19-10-2015 01:11:32: The char-server is ready (Server is listening on the port 6121).
+19-10-2015 01:11:34: Map-Server 0 connected: 804 maps, from IP 10.212.8.136 port 5121. Map-server 0 loading complete.
+19-10-2015 01:11:40: Character Selected, Account ID: 2000002, Character Slot: 0, Character Name: Sasa.
+
+19-10-2015 01:16:23: The char-server starting...
+19-10-2015 01:16:23: mmo_char_init: 1 character read in save/athena.txt.
+19-10-2015 01:16:23: Id for the next created character: 150001.
+19-10-2015 01:16:23: The char-server is ready (Server is listening on the port 6121).
+19-10-2015 01:16:25: Map-Server 0 connected: 804 maps, from IP 10.212.8.136 port 5121. Map-server 0 loading complete.
+19-10-2015 01:16:29: Character Selected, Account ID: 2000002, Character Slot: 0, Character Name: Sasa.
+
+19-10-2015 01:17:29: The char-server starting...
+19-10-2015 01:17:29: mmo_char_init: 1 character read in save/athena.txt.
+19-10-2015 01:17:29: Id for the next created character: 150001.
+19-10-2015 01:17:29: The char-server is ready (Server is listening on the port 6121).
+19-10-2015 01:17:31: Map-Server 0 connected: 804 maps, from IP 10.212.8.136 port 5121. Map-server 0 loading complete.
+19-10-2015 01:17:34: Character Selected, Account ID: 2000002, Character Slot: 0, Character Name: Sasa.
+
+19-10-2015 01:18:21: The char-server starting...
+19-10-2015 01:18:21: mmo_char_init: 1 character read in save/athena.txt.
+19-10-2015 01:18:21: Id for the next created character: 150001.
+19-10-2015 01:18:21: The char-server is ready (Server is listening on the port 6121).
+19-10-2015 01:18:23: Map-Server 0 connected: 804 maps, from IP 10.212.8.136 port 5121. Map-server 0 loading complete.
+19-10-2015 01:18:26: Character Selected, Account ID: 2000002, Character Slot: 0, Character Name: Sasa.
+
+19-10-2015 01:19:56: The char-server starting...
+19-10-2015 01:19:56: mmo_char_init: 1 character read in save/athena.txt.
+19-10-2015 01:19:56: Id for the next created character: 150001.
+19-10-2015 01:19:56: The char-server is ready (Server is listening on the port 6121).
+19-10-2015 01:19:58: Map-Server 0 connected: 804 maps, from IP 10.212.8.136 port 5121. Map-server 0 loading complete.
+19-10-2015 01:20:05: Character Selected, Account ID: 2000002, Character Slot: 0, Character Name: Sasa.
+
+19-10-2015 01:22:45: The char-server starting...
+19-10-2015 01:22:45: mmo_char_init: 1 character read in save/athena.txt.
+19-10-2015 01:22:45: Id for the next created character: 150001.
+19-10-2015 01:22:45: The char-server is ready (Server is listening on the port 6121).
+19-10-2015 01:22:47: Map-Server 0 connected: 804 maps, from IP 10.212.8.136 port 5121. Map-server 0 loading complete.
+19-10-2015 01:22:52: Character Selected, Account ID: 2000002, Character Slot: 0, Character Name: Sasa.
+
+19-10-2015 07:00:20: The char-server starting...
+19-10-2015 07:00:20: mmo_char_init: 1 character read in save/athena.txt.
+19-10-2015 07:00:20: Id for the next created character: 150001.
+19-10-2015 07:00:20: The char-server is ready (Server is listening on the port 6121).
+19-10-2015 07:00:26: Map-Server 0 connected: 804 maps, from IP 10.212.8.136 port 5121. Map-server 0 loading complete.
+19-10-2015 07:00:35: Character Selected, Account ID: 2000002, Character Slot: 0, Character Name: Sasa.
+
+19-10-2015 07:05:45: The char-server starting...
+19-10-2015 07:05:45: mmo_char_init: 1 character read in save/athena.txt.
+19-10-2015 07:05:45: Id for the next created character: 150001.
+19-10-2015 07:05:45: The char-server is ready (Server is listening on the port 6121).
+19-10-2015 07:05:47: Map-Server 0 connected: 804 maps, from IP 10.212.8.136 port 5121. Map-server 0 loading complete.
+19-10-2015 07:05:51: Character Selected, Account ID: 2000002, Character Slot: 0, Character Name: Sasa.
+
+19-10-2015 07:09:16: The char-server starting...
+19-10-2015 07:09:16: mmo_char_init: 1 character read in save/athena.txt.
+19-10-2015 07:09:16: Id for the next created character: 150001.
+19-10-2015 07:09:16: The char-server is ready (Server is listening on the port 6121).
+19-10-2015 07:09:18: Map-Server 0 connected: 804 maps, from IP 10.212.8.136 port 5121. Map-server 0 loading complete.
+19-10-2015 07:09:22: Character Selected, Account ID: 2000002, Character Slot: 0, Character Name: Sasa.
+
+19-10-2015 07:10:07: The char-server starting...
+19-10-2015 07:10:07: mmo_char_init: 1 character read in save/athena.txt.
+19-10-2015 07:10:07: Id for the next created character: 150001.
+19-10-2015 07:10:07: The char-server is ready (Server is listening on the port 6121).
+19-10-2015 07:10:09: Map-Server 0 connected: 804 maps, from IP 10.212.8.136 port 5121. Map-server 0 loading complete.
+19-10-2015 07:10:12: Character Selected, Account ID: 2000002, Character Slot: 0, Character Name: Sasa.
+19-10-2015 07:10:23: Character Selected, Account ID: 2000002, Character Slot: 0, Character Name: Sasa.
+
+19-10-2015 07:11:19: The char-server starting...
+19-10-2015 07:11:19: mmo_char_init: 1 character read in save/athena.txt.
+19-10-2015 07:11:19: Id for the next created character: 150001.
+19-10-2015 07:11:19: The char-server is ready (Server is listening on the port 6121).
+19-10-2015 07:11:21: Map-Server 0 connected: 804 maps, from IP 10.212.8.136 port 5121. Map-server 0 loading complete.
+19-10-2015 07:11:24: Character Selected, Account ID: 2000002, Character Slot: 0, Character Name: Sasa.
+
+19-10-2015 07:12:36: The char-server starting...
+19-10-2015 07:12:36: mmo_char_init: 1 character read in save/athena.txt.
+19-10-2015 07:12:36: Id for the next created character: 150001.
+19-10-2015 07:12:36: The char-server is ready (Server is listening on the port 6121).
+19-10-2015 07:12:38: Map-Server 0 connected: 804 maps, from IP 10.212.8.136 port 5121. Map-server 0 loading complete.
+19-10-2015 07:12:42: Character Selected, Account ID: 2000002, Character Slot: 0, Character Name: Sasa.
+
+19-10-2015 07:17:02: The char-server starting...
+19-10-2015 07:17:02: mmo_char_init: 1 character read in save/athena.txt.
+19-10-2015 07:17:02: Id for the next created character: 150001.
+19-10-2015 07:17:02: The char-server is ready (Server is listening on the port 6121).
+19-10-2015 07:17:04: Map-Server 0 connected: 804 maps, from IP 10.212.8.136 port 5121. Map-server 0 loading complete.
+
+19-10-2015 07:17:42: The char-server starting...
+19-10-2015 07:17:42: mmo_char_init: 1 character read in save/athena.txt.
+19-10-2015 07:17:42: Id for the next created character: 150001.
+19-10-2015 07:17:42: The char-server is ready (Server is listening on the port 6121).
+19-10-2015 07:17:44: Map-Server 0 connected: 804 maps, from IP 10.212.8.136 port 5121. Map-server 0 loading complete.
+
+19-10-2015 07:18:29: The char-server starting...
+19-10-2015 07:18:29: mmo_char_init: 1 character read in save/athena.txt.
+19-10-2015 07:18:29: Id for the next created character: 150001.
+19-10-2015 07:18:29: The char-server is ready (Server is listening on the port 6121).
+19-10-2015 07:18:31: Map-Server 0 connected: 804 maps, from IP 10.212.8.136 port 5121. Map-server 0 loading complete.
+
+19-10-2015 07:18:39: The char-server starting...
+19-10-2015 07:18:39: mmo_char_init: 1 character read in save/athena.txt.
+19-10-2015 07:18:39: Id for the next created character: 150001.
+19-10-2015 07:18:39: The char-server is ready (Server is listening on the port 6121).
+19-10-2015 07:18:41: Map-Server 0 connected: 804 maps, from IP 10.212.8.136 port 5121. Map-server 0 loading complete.
+19-10-2015 07:18:46: Character Selected, Account ID: 2000002, Character Slot: 0, Character Name: Sasa.
+
+19-10-2015 07:26:49: The char-server starting...
+19-10-2015 07:26:49: mmo_char_init: 1 character read in save/athena.txt.
+19-10-2015 07:26:49: Id for the next created character: 150001.
+19-10-2015 07:26:49: The char-server is ready (Server is listening on the port 6121).
+19-10-2015 07:26:51: Map-Server 0 connected: 804 maps, from IP 10.212.8.136 port 5121. Map-server 0 loading complete.
+
+19-10-2015 07:29:32: The char-server starting...
+19-10-2015 07:29:32: mmo_char_init: 1 character read in save/athena.txt.
+19-10-2015 07:29:32: Id for the next created character: 150001.
+19-10-2015 07:29:32: The char-server is ready (Server is listening on the port 6121).
+19-10-2015 07:29:34: Map-Server 0 connected: 804 maps, from IP 10.212.8.136 port 5121. Map-server 0 loading complete.
+
+19-10-2015 07:30:11: The char-server starting...
+19-10-2015 07:30:11: mmo_char_init: 1 character read in save/athena.txt.
+19-10-2015 07:30:11: Id for the next created character: 150001.
+19-10-2015 07:30:11: The char-server is ready (Server is listening on the port 6121).
+19-10-2015 07:30:13: Map-Server 0 connected: 804 maps, from IP 10.212.8.136 port 5121. Map-server 0 loading complete.
+
+19-10-2015 07:30:29: The char-server starting...
+19-10-2015 07:30:29: mmo_char_init: 1 character read in save/athena.txt.
+19-10-2015 07:30:29: Id for the next created character: 150001.
+19-10-2015 07:30:29: The char-server is ready (Server is listening on the port 6121).
+19-10-2015 07:30:31: Map-Server 0 connected: 804 maps, from IP 10.212.8.136 port 5121. Map-server 0 loading complete.
+
+19-10-2015 07:30:43: The char-server starting...
+19-10-2015 07:30:43: mmo_char_init: 1 character read in save/athena.txt.
+19-10-2015 07:30:43: Id for the next created character: 150001.
+19-10-2015 07:30:43: The char-server is ready (Server is listening on the port 6121).
+19-10-2015 07:30:45: Map-Server 0 connected: 804 maps, from IP 10.212.8.136 port 5121. Map-server 0 loading complete.
+
+19-10-2015 07:31:01: The char-server starting...
+19-10-2015 07:31:01: mmo_char_init: 1 character read in save/athena.txt.
+19-10-2015 07:31:01: Id for the next created character: 150001.
+19-10-2015 07:31:01: The char-server is ready (Server is listening on the port 6121).
+19-10-2015 07:31:03: Map-Server 0 connected: 804 maps, from IP 10.212.8.136 port 5121. Map-server 0 loading complete.
+
+19-10-2015 07:31:38: The char-server starting...
+19-10-2015 07:31:38: mmo_char_init: 1 character read in save/athena.txt.
+19-10-2015 07:31:38: Id for the next created character: 150001.
+19-10-2015 07:31:38: The char-server is ready (Server is listening on the port 6121).
+19-10-2015 07:31:40: Map-Server 0 connected: 804 maps, from IP 10.212.8.136 port 5121. Map-server 0 loading complete.
+
+19-10-2015 07:31:59: The char-server starting...
+19-10-2015 07:31:59: mmo_char_init: 1 character read in save/athena.txt.
+19-10-2015 07:31:59: Id for the next created character: 150001.
+19-10-2015 07:31:59: The char-server is ready (Server is listening on the port 6121).
+19-10-2015 07:32:00: Map-Server 0 connected: 804 maps, from IP 10.212.8.136 port 5121. Map-server 0 loading complete.
+
+19-10-2015 07:32:23: The char-server starting...
+19-10-2015 07:32:23: mmo_char_init: 1 character read in save/athena.txt.
+19-10-2015 07:32:23: Id for the next created character: 150001.
+19-10-2015 07:32:23: The char-server is ready (Server is listening on the port 6121).
+19-10-2015 07:32:25: Map-Server 0 connected: 804 maps, from IP 10.212.8.136 port 5121. Map-server 0 loading complete.
+
+19-10-2015 07:35:13: The char-server starting...
+19-10-2015 07:35:13: mmo_char_init: 1 character read in save/athena.txt.
+19-10-2015 07:35:13: Id for the next created character: 150001.
+19-10-2015 07:35:13: The char-server is ready (Server is listening on the port 6121).
+19-10-2015 07:35:15: Map-Server 0 connected: 804 maps, from IP 10.212.8.136 port 5121. Map-server 0 loading complete.
+
+19-10-2015 07:35:27: The char-server starting...
+19-10-2015 07:35:27: mmo_char_init: 1 character read in save/athena.txt.
+19-10-2015 07:35:27: Id for the next created character: 150001.
+19-10-2015 07:35:27: The char-server is ready (Server is listening on the port 6121).
+19-10-2015 07:35:29: Map-Server 0 connected: 804 maps, from IP 10.212.8.136 port 5121. Map-server 0 loading complete.
+
+19-10-2015 07:35:52: The char-server starting...
+19-10-2015 07:35:52: mmo_char_init: 1 character read in save/athena.txt.
+19-10-2015 07:35:52: Id for the next created character: 150001.
+19-10-2015 07:35:52: The char-server is ready (Server is listening on the port 6121).
+19-10-2015 07:35:54: Map-Server 0 connected: 804 maps, from IP 10.212.8.136 port 5121. Map-server 0 loading complete.
+19-10-2015 07:36:02: Character Selected, Account ID: 2000002, Character Slot: 0, Character Name: Sasa.
+
+19-10-2015 07:47:55: The char-server starting...
+19-10-2015 07:47:55: mmo_char_init: 1 character read in save/athena.txt.
+19-10-2015 07:47:55: Id for the next created character: 150001.
+19-10-2015 07:47:55: The char-server is ready (Server is listening on the port 6121).
+19-10-2015 07:47:57: Map-Server 0 connected: 804 maps, from IP 10.212.8.136 port 5121. Map-server 0 loading complete.
+19-10-2015 07:48:01: Character Selected, Account ID: 2000002, Character Slot: 0, Character Name: Sasa.
+
+19-10-2015 07:48:36: The char-server starting...
+19-10-2015 07:48:36: mmo_char_init: 1 character read in save/athena.txt.
+19-10-2015 07:48:36: Id for the next created character: 150001.
+19-10-2015 07:48:36: The char-server is ready (Server is listening on the port 6121).
+19-10-2015 07:48:38: Map-Server 0 connected: 804 maps, from IP 10.212.8.136 port 5121. Map-server 0 loading complete.
+19-10-2015 07:48:40: Character Selected, Account ID: 2000002, Character Slot: 0, Character Name: Sasa.
+
+19-10-2015 07:58:21: The char-server starting...
+19-10-2015 07:58:21: Invalid register structure in the next character line (character not readed):
+19-10-2015 07:58:21: 150000	2000002,0	Sasa	0,150,1	2,0,999986000	792,792,161,161	1,1,1,1,1,1	2722,49	0,0,0	0,0,0,0	1,0,0	0,0,0,0,0,0	193,152,192	136,53,111,0,0,0,0,0,0		0,4302,1,0,1,0,0,0,0,0,0 0,2374,1,0,1,10,0,0,0,0,0 0,1407,1,0,1,0,0,0,0,0,0 0,7309,1,0,1,0,0,0,0,0,0 0,5592,1,0,1,0,0,0,0,0,0 		1,9 142,1 143,1 	jobchange_level,50 jobchange_level2,70 PC_DIE_COUNTER,1 swordsman,2 lastJob,14 nome$,[Baby JobChanger] 	
+19-10-2015 07:58:21: mmo_char_init: No character found in save/athena.txt.
+19-10-2015 07:58:21: Id for the next created character: 150001.
+19-10-2015 07:58:21: The char-server is ready (Server is listening on the port 6121).
+19-10-2015 07:58:23: Map-Server 0 connected: 804 maps, from IP 10.212.8.136 port 5121. Map-server 0 loading complete.
+
+19-10-2015 07:58:46: The char-server starting...
+19-10-2015 07:58:46: mmo_char_init: No character found in save/athena.txt.
+19-10-2015 07:58:46: Id for the next created character: 150001.
+19-10-2015 07:58:46: The char-server is ready (Server is listening on the port 6121).
+19-10-2015 07:58:48: Map-Server 0 connected: 804 maps, from IP 10.212.8.136 port 5121. Map-server 0 loading complete.
+19-10-2015 07:59:04: make new char: account: 2000002, slot 0, name: Sasa, stats: 1/1/1/1/1/1, hair: 1, hair color: 0.
+19-10-2015 07:59:05: Character Selected, Account ID: 2000002, Character Slot: 0, Character Name: Sasa.
+
+19-10-2015 12:09:32: The char-server starting...
+19-10-2015 12:09:32: mmo_char_init: 1 character read in save/athena.txt.
+19-10-2015 12:09:32: Id for the next created character: 150002.
+19-10-2015 12:09:32: The char-server is ready (Server is listening on the port 881).
+19-10-2015 12:09:36: Map-Server 0 connected: 804 maps, from IP 10.212.8.228 port 6121. Map-server 0 loading complete.
+
+19-10-2015 12:10:03: The char-server starting...
+19-10-2015 12:10:03: mmo_char_init: 200 characters read in save/athena.txt.
+19-10-2015 12:10:03: Id for the next created character: 150349.
+19-10-2015 12:10:03: The char-server is ready (Server is listening on the port 881).
+19-10-2015 12:10:05: Map-Server 0 connected: 804 maps, from IP 10.212.8.228 port 6121. Map-server 0 loading complete.
+19-10-2015 12:11:26: Character Selected, Account ID: 2000005, Character Slot: 6, Character Name: TEST SKRIP.
+19-10-2015 12:11:54: Character Selected, Account ID: 2000009, Character Slot: 0, Character Name: TuanMuda.
+19-10-2015 12:13:23: Character Selected, Account ID: 2000006, Character Slot: 0, Character Name: idoido.
+19-10-2015 12:13:51: Character Selected, Account ID: 2000068, Character Slot: 0, Character Name: laque.
+19-10-2015 12:14:02: Character Selected, Account ID: 2000006, Character Slot: 0, Character Name: idoido.
+19-10-2015 12:15:48: Character Selected, Account ID: 2000097, Character Slot: 0, Character Name: nightmare.
+19-10-2015 12:22:19: Character Selected, Account ID: 2000097, Character Slot: 0, Character Name: nightmare.
+19-10-2015 12:26:17: Character Selected, Account ID: 2000070, Character Slot: 0, Character Name: GolekDuit.
+
+19-10-2015 12:28:37: The char-server starting...
+19-10-2015 12:28:37: mmo_char_init: 200 characters read in save/athena.txt.
+19-10-2015 12:28:37: Id for the next created character: 150349.
+19-10-2015 12:28:37: The char-server is ready (Server is listening on the port 881).
+19-10-2015 12:28:42: Map-Server 0 connected: 804 maps, from IP 10.212.8.228 port 6121. Map-server 0 loading complete.
+19-10-2015 12:28:47: Character Selected, Account ID: 2000005, Character Slot: 6, Character Name: TEST SKRIP.
+19-10-2015 12:29:29: Character Selected, Account ID: 2000085, Character Slot: 0, Character Name: OneHit.
+19-10-2015 12:29:50: Character Selected, Account ID: 2000016, Character Slot: 2, Character Name: Luffy.
+19-10-2015 12:30:17: Character Selected, Account ID: 2000085, Character Slot: 0, Character Name: OneHit.
+19-10-2015 12:30:31: Character Selected, Account ID: 2000016, Character Slot: 2, Character Name: Luffy.
+
+19-10-2015 12:31:42: The char-server starting...
+19-10-2015 12:31:42: Invalid register structure in the next character line (character not readed):
+19-10-2015 12:31:42: 150348	2000005,6	TEST SKRIP	0,47,10	15386,274049,1000000	1890,945,398,199	250,250,250,250,250,250	14710,9	0,0,0	0,0,0,0	1,0,0	0,0,0,0,0,0	193,153,192	211,50,168,0,0,0,0,0,0		0,1201,1,0,1,0,0,0,0,0,0 0,2301,1,0,1,0,0,0,0,0,0 0,1001,1,0,1,0,0,0,0,0,0 		1,9 	jobchange_level,50 lastJob,11 jobchange_level2,90 lastmap$,anthell01 lastx,35 lasty,262 nome$,[Baby JobChanger] 	
+19-10-2015 12:31:42: mmo_char_init: 199 characters read in save/athena.txt.
+19-10-2015 12:31:42: Id for the next created character: 150349.
+19-10-2015 12:31:42: The char-server is ready (Server is listening on the port 881).
+19-10-2015 12:31:45: Map-Server 0 connected: 804 maps, from IP 10.212.8.228 port 6121. Map-server 0 loading complete.
+19-10-2015 12:31:58: Character Selected, Account ID: 2000016, Character Slot: 2, Character Name: Luffy.
+19-10-2015 12:32:05: Character Selected, Account ID: 2000005, Character Slot: 4, Character Name: JiEm JOG.
+19-10-2015 12:33:47: Character Selected, Account ID: 2000016, Character Slot: 2, Character Name: Luffy.
+19-10-2015 12:36:30: Character Selected, Account ID: 2000016, Character Slot: 2, Character Name: Luffy.
+19-10-2015 12:37:31: Character Selected, Account ID: 2000005, Character Slot: 2, Character Name: KsatriaPerak.
+19-10-2015 12:39:29: make new char: account: 2000111, slot 0, name: Telo, stats: 1/1/1/1/1/1, hair: 5, hair color: 5.
+19-10-2015 12:39:33: Character Selected, Account ID: 2000111, Character Slot: 0, Character Name: Telo.
+19-10-2015 12:40:59: Character Selected, Account ID: 2000016, Character Slot: 2, Character Name: Luffy.
+19-10-2015 12:44:27: Character Selected, Account ID: 2000084, Character Slot: 0, Character Name: ShinHye.
+19-10-2015 12:46:49: Character Selected, Account ID: 2000084, Character Slot: 0, Character Name: ShinHye.
+
+19-10-2015 12:50:14: The char-server starting...
+19-10-2015 12:50:14: Invalid register structure in the next character line (character not readed):
+19-10-2015 12:50:14: 150349	2000111,0	Telo	0,23,10	21,4340,998800	302,151,68,34	22,21,1,4,10,1	28,0	0,0,0	0,0,0,0	5,5,0	1,1,0,0,0,0	193,160,169	134,150,99,0,0,0,0,0,0		0,1201,1,0,1,0,0,0,0,0,0 0,2301,1,0,1,0,0,0,0,0,0 0,2352,1,16,1,0,0,0,0,0,0 0,602,1,0,1,0,0,0,0,0,0 0,601,9,0,1,0,0,0,0,0,0 0,1243,1,2,1,0,0,0,0,0,0 0,2112,1,32,1,0,0,0,0,0,0 0,611,2,0,1,0,0,0,0,0,0 0,569,300,0,1,0,0,0,0,0,0 		1,9 142,1 143,1 	nov_get_item02,12 nov_get_item03,13 NOV_SK,3 RESRVPTS,75 nome$,[Baby JobChanger] 	
+19-10-2015 12:50:14: mmo_char_init: 199 characters read in save/athena.txt.
+19-10-2015 12:50:14: Id for the next created character: 150350.
+19-10-2015 12:50:14: The char-server is ready (Server is listening on the port 881).
+19-10-2015 12:50:17: Map-Server 0 connected: 804 maps, from IP 10.212.8.228 port 6121. Map-server 0 loading complete.
+19-10-2015 12:51:14: Character Selected, Account ID: 2000005, Character Slot: 4, Character Name: JiEm JOG.
+19-10-2015 12:51:45: make new char: account: 2000111, slot 1, name: oyeah, stats: 1/1/1/1/1/1, hair: 1, hair color: 0.
+19-10-2015 12:51:48: Character Selected, Account ID: 2000111, Character Slot: 1, Character Name: oyeah.
+
+19-10-2015 12:52:30: The char-server starting...
+19-10-2015 12:52:30: mmo_char_init: 200 characters read in save/athena.txt.
+19-10-2015 12:52:30: Id for the next created character: 150351.
+19-10-2015 12:52:30: The char-server is ready (Server is listening on the port 881).
+19-10-2015 12:52:33: Map-Server 0 connected: 804 maps, from IP 10.212.8.228 port 6121. Map-server 0 loading complete.
+19-10-2015 12:52:39: Character Selected, Account ID: 2000005, Character Slot: 4, Character Name: JiEm JOG.
+
+19-10-2015 12:54:30: The char-server starting...
+19-10-2015 12:54:30: mmo_char_init: 200 characters read in save/athena.txt.
+19-10-2015 12:54:30: Id for the next created character: 150351.
+19-10-2015 12:54:30: The char-server is ready (Server is listening on the port 881).
+19-10-2015 12:54:33: Map-Server 0 connected: 804 maps, from IP 10.212.8.228 port 6121. Map-server 0 loading complete.
+19-10-2015 12:54:38: Character Selected, Account ID: 2000005, Character Slot: 4, Character Name: JiEm JOG.
+
+19-10-2015 12:54:56: The char-server starting...
+19-10-2015 12:54:57: mmo_char_init: 200 characters read in save/athena.txt.
+19-10-2015 12:54:57: Id for the next created character: 150351.
+19-10-2015 12:54:57: The char-server is ready (Server is listening on the port 881).
+19-10-2015 12:54:59: Map-Server 0 connected: 804 maps, from IP 10.212.8.228 port 6121. Map-server 0 loading complete.
+19-10-2015 12:55:11: Character Selected, Account ID: 2000005, Character Slot: 4, Character Name: JiEm JOG.
+19-10-2015 12:56:03: Character Selected, Account ID: 2000111, Character Slot: 1, Character Name: oyeah.
+
+19-10-2015 12:56:48: The char-server starting...
+19-10-2015 12:56:48: mmo_char_init: 200 characters read in save/athena.txt.
+19-10-2015 12:56:48: Id for the next created character: 150351.
+19-10-2015 12:56:48: The char-server is ready (Server is listening on the port 881).
+19-10-2015 12:56:50: Map-Server 0 connected: 804 maps, from IP 10.212.8.228 port 6121. Map-server 0 loading complete.
+19-10-2015 12:57:09: Character Selected, Account ID: 2000005, Character Slot: 4, Character Name: JiEm JOG.
+19-10-2015 12:59:14: Character Selected, Account ID: 2000070, Character Slot: 0, Character Name: GolekDuit.
+19-10-2015 13:01:26: Character Selected, Account ID: 2000016, Character Slot: 2, Character Name: Luffy.
+
+19-10-2015 13:03:57: The char-server starting...
+19-10-2015 13:03:57: mmo_char_init: 200 characters read in save/athena.txt.
+19-10-2015 13:03:57: Id for the next created character: 150351.
+19-10-2015 13:03:57: The char-server is ready (Server is listening on the port 881).
+19-10-2015 13:03:59: Map-Server 0 connected: 804 maps, from IP 10.212.8.228 port 6121. Map-server 0 loading complete.
+19-10-2015 13:04:05: Character Selected, Account ID: 2000005, Character Slot: 4, Character Name: JiEm JOG.
+19-10-2015 13:04:11: Character Selected, Account ID: 2000016, Character Slot: 2, Character Name: Luffy.
+19-10-2015 13:05:26: Character Selected, Account ID: 2000111, Character Slot: 1, Character Name: oyeah.
+
+19-10-2015 13:07:23: The char-server starting...
+19-10-2015 13:07:23: mmo_char_init: 200 characters read in save/athena.txt.
+19-10-2015 13:07:23: Id for the next created character: 150351.
+19-10-2015 13:07:23: The char-server is ready (Server is listening on the port 881).
+19-10-2015 13:07:25: Map-Server 0 connected: 804 maps, from IP 10.212.8.228 port 6121. Map-server 0 loading complete.
+19-10-2015 13:07:29: Character Selected, Account ID: 2000005, Character Slot: 4, Character Name: JiEm JOG.
+
+19-10-2015 15:00:46: The char-server starting...
+19-10-2015 15:00:46: mmo_char_init: 200 characters read in save/athena.txt.
+19-10-2015 15:00:46: Id for the next created character: 150351.
+19-10-2015 15:00:46: The char-server is ready (Server is listening on the port 881).
+19-10-2015 15:00:57: Map-Server 0 connected: 804 maps, from IP 10.212.8.228 port 6121. Map-server 0 loading complete.
+19-10-2015 15:18:13: Character Selected, Account ID: 2000111, Character Slot: 1, Character Name: oyeah.
+19-10-2015 15:18:59: Character Selected, Account ID: 2000111, Character Slot: 1, Character Name: oyeah.
+19-10-2015 15:19:19: Character Selected, Account ID: 2000054, Character Slot: 0, Character Name: debugzie.
+19-10-2015 15:20:09: Character Selected, Account ID: 2000111, Character Slot: 1, Character Name: oyeah.
+19-10-2015 15:21:19: Character Selected, Account ID: 2000111, Character Slot: 1, Character Name: oyeah.
+19-10-2015 15:22:30: Character Selected, Account ID: 2000111, Character Slot: 1, Character Name: oyeah.
+19-10-2015 15:23:04: Character Selected, Account ID: 2000111, Character Slot: 1, Character Name: oyeah.
+19-10-2015 15:30:24: Character Selected, Account ID: 2000022, Character Slot: 0, Character Name: Kirito.
+19-10-2015 15:38:05: Character Selected, Account ID: 2000005, Character Slot: 4, Character Name: JiEm JOG.
+19-10-2015 15:41:17: Character Selected, Account ID: 2000111, Character Slot: 1, Character Name: oyeah.
+19-10-2015 15:42:24: Character Selected, Account ID: 2000111, Character Slot: 1, Character Name: oyeah.
+19-10-2015 15:42:37: Character Selected, Account ID: 2000111, Character Slot: 1, Character Name: oyeah.
+19-10-2015 15:43:07: Character Selected, Account ID: 2000111, Character Slot: 1, Character Name: oyeah.
+19-10-2015 15:47:07: Character Selected, Account ID: 2000111, Character Slot: 1, Character Name: oyeah.
+19-10-2015 15:50:52: Character Selected, Account ID: 2000111, Character Slot: 1, Character Name: oyeah.
+19-10-2015 15:51:13: Character Selected, Account ID: 2000005, Character Slot: 4, Character Name: JiEm JOG.
+19-10-2015 15:51:47: Character Selected, Account ID: 2000072, Character Slot: 0, Character Name: Typhoon.
+19-10-2015 15:53:45: Character Selected, Account ID: 2000005, Character Slot: 4, Character Name: JiEm JOG.
+19-10-2015 15:56:01: Character Selected, Account ID: 2000111, Character Slot: 1, Character Name: oyeah.
+19-10-2015 15:58:13: Character Selected, Account ID: 2000111, Character Slot: 1, Character Name: oyeah.
+19-10-2015 16:04:02: Character Selected, Account ID: 2000022, Character Slot: 0, Character Name: Kirito.
+19-10-2015 16:04:53: Character Selected, Account ID: 2000005, Character Slot: 4, Character Name: JiEm JOG.
+19-10-2015 16:06:41: Character Selected, Account ID: 2000072, Character Slot: 5, Character Name: Windy.
+19-10-2015 16:07:07: Character Selected, Account ID: 2000022, Character Slot: 0, Character Name: Kirito.
+19-10-2015 16:07:18: Character Selected, Account ID: 2000111, Character Slot: 1, Character Name: oyeah.
+19-10-2015 16:07:25: Character Selected, Account ID: 2000111, Character Slot: 1, Character Name: oyeah.
+19-10-2015 16:07:40: Character Selected, Account ID: 2000111, Character Slot: 1, Character Name: oyeah.
+19-10-2015 16:07:48: Character Selected, Account ID: 2000005, Character Slot: 4, Character Name: JiEm JOG.
+19-10-2015 16:08:50: Character Selected, Account ID: 2000005, Character Slot: 4, Character Name: JiEm JOG.
+19-10-2015 16:17:26: Character Selected, Account ID: 2000111, Character Slot: 1, Character Name: oyeah.
+19-10-2015 16:17:34: Character Selected, Account ID: 2000111, Character Slot: 1, Character Name: oyeah.
+19-10-2015 16:18:26: Character Selected, Account ID: 2000111, Character Slot: 1, Character Name: oyeah.
+19-10-2015 16:18:36: Character Selected, Account ID: 2000111, Character Slot: 1, Character Name: oyeah.
+19-10-2015 16:23:00: Character Selected, Account ID: 2000048, Character Slot: 0, Character Name: fpsz.
+19-10-2015 16:24:40: Character Selected, Account ID: 2000111, Character Slot: 1, Character Name: oyeah.
+19-10-2015 16:24:55: Character Selected, Account ID: 2000111, Character Slot: 1, Character Name: oyeah.
+19-10-2015 16:25:09: Character Selected, Account ID: 2000111, Character Slot: 1, Character Name: oyeah.
+19-10-2015 16:27:00: Character Selected, Account ID: 2000111, Character Slot: 1, Character Name: oyeah.
+19-10-2015 16:28:06: Character Selected, Account ID: 2000111, Character Slot: 1, Character Name: oyeah.
+19-10-2015 16:28:32: Character Selected, Account ID: 2000111, Character Slot: 1, Character Name: oyeah.
+19-10-2015 16:29:10: Character Selected, Account ID: 2000111, Character Slot: 1, Character Name: oyeah.
+19-10-2015 16:29:22: Character Selected, Account ID: 2000063, Character Slot: 0, Character Name: Tomtom.
+19-10-2015 16:29:26: Character Selected, Account ID: 2000111, Character Slot: 1, Character Name: oyeah.
+19-10-2015 16:29:44: Character Selected, Account ID: 2000111, Character Slot: 1, Character Name: oyeah.
+19-10-2015 16:30:05: Character Selected, Account ID: 2000111, Character Slot: 1, Character Name: oyeah.
+19-10-2015 16:31:32: Character Selected, Account ID: 2000111, Character Slot: 1, Character Name: oyeah.
+19-10-2015 16:31:55: Character Selected, Account ID: 2000111, Character Slot: 1, Character Name: oyeah.
+19-10-2015 16:33:37: Character Selected, Account ID: 2000111, Character Slot: 1, Character Name: oyeah.
+19-10-2015 16:33:52: Character Selected, Account ID: 2000111, Character Slot: 1, Character Name: oyeah.
+19-10-2015 16:34:09: Character Selected, Account ID: 2000111, Character Slot: 1, Character Name: oyeah.
+19-10-2015 16:34:47: Character Selected, Account ID: 2000111, Character Slot: 1, Character Name: oyeah.
+19-10-2015 16:35:16: Character Selected, Account ID: 2000072, Character Slot: 4, Character Name: Stellar.
+19-10-2015 16:36:16: Character Selected, Account ID: 2000111, Character Slot: 1, Character Name: oyeah.
+19-10-2015 16:37:37: make new char: account: 2000112, slot 3, name: adadsada, stats: 1/1/1/1/1/1, hair: 1, hair color: 0.
+19-10-2015 16:37:40: Character Selected, Account ID: 2000112, Character Slot: 3, Character Name: adadsada.
+19-10-2015 16:37:41: Character Selected, Account ID: 2000085, Character Slot: 0, Character Name: OneHit.
+19-10-2015 16:41:17: Character Selected, Account ID: 2000111, Character Slot: 1, Character Name: oyeah.
+19-10-2015 16:41:31: Character Selected, Account ID: 2000111, Character Slot: 1, Character Name: oyeah.
+19-10-2015 16:41:51: Character Selected, Account ID: 2000111, Character Slot: 1, Character Name: oyeah.
+19-10-2015 16:49:25: Character Selected, Account ID: 2000054, Character Slot: 0, Character Name: debugzie.
+19-10-2015 16:50:31: Character Selected, Account ID: 2000046, Character Slot: 0, Character Name: DekDukun.
+19-10-2015 16:53:41: Character Selected, Account ID: 2000051, Character Slot: 0, Character Name: aliffaizun.
+19-10-2015 16:53:48: Character Selected, Account ID: 2000046, Character Slot: 0, Character Name: DekDukun.
+19-10-2015 16:59:12: Character Selected, Account ID: 2000097, Character Slot: 0, Character Name: nightmare.
+19-10-2015 16:59:50: Character Selected, Account ID: 2000039, Character Slot: 2, Character Name: Asura.
+19-10-2015 16:59:52: Character Selected, Account ID: 2000029, Character Slot: 0, Character Name: Mawood.
+19-10-2015 17:00:24: Character Selected, Account ID: 2000051, Character Slot: 0, Character Name: aliffaizun.
+19-10-2015 17:00:41: Character Selected, Account ID: 2000018, Character Slot: 0, Character Name: HUHU.
+19-10-2015 17:01:34: Character Selected, Account ID: 2000099, Character Slot: 0, Character Name: Sugeng.
+19-10-2015 17:01:58: Character Selected, Account ID: 2000085, Character Slot: 0, Character Name: OneHit.
+19-10-2015 17:03:01: Character Selected, Account ID: 2000082, Character Slot: 0, Character Name: Elys.
+19-10-2015 17:03:05: Character Selected, Account ID: 2000085, Character Slot: 0, Character Name: OneHit.
+19-10-2015 17:03:41: Character Selected, Account ID: 2000026, Character Slot: 1, Character Name: cihcih.
+19-10-2015 17:03:42: Character Selected, Account ID: 2000054, Character Slot: 0, Character Name: debugzie.
+19-10-2015 17:04:26: Character Selected, Account ID: 2000043, Character Slot: 0, Character Name: DJajenG.
+19-10-2015 17:04:28: Character Selected, Account ID: 2000017, Character Slot: 0, Character Name: Samsul.
+19-10-2015 17:04:53: Character Selected, Account ID: 2000092, Character Slot: 1, Character Name: zitnywuri.
+19-10-2015 17:05:38: Character Selected, Account ID: 2000043, Character Slot: 2, Character Name: DJdYan.
+19-10-2015 17:05:48: Character Selected, Account ID: 2000054, Character Slot: 0, Character Name: debugzie.
+19-10-2015 17:06:26: Character Selected, Account ID: 2000089, Character Slot: 0, Character Name: Ponds.
+19-10-2015 17:07:54: Character Selected, Account ID: 2000069, Character Slot: 0, Character Name: NeAR.
+19-10-2015 17:08:07: Character Selected, Account ID: 2000025, Character Slot: 5, Character Name: KaitozC.
+19-10-2015 17:08:17: Character Selected, Account ID: 2000111, Character Slot: 1, Character Name: oyeah.
+19-10-2015 17:08:27: Character Selected, Account ID: 2000025, Character Slot: 8, Character Name: Kaitoz.
+19-10-2015 17:08:28: Character Selected, Account ID: 2000026, Character Slot: 0, Character Name: avarist.
+19-10-2015 17:08:41: Character Selected, Account ID: 2000026, Character Slot: 1, Character Name: cihcih.
+19-10-2015 17:08:44: Character Selected, Account ID: 2000009, Character Slot: 1, Character Name: BomberMan.
+19-10-2015 17:09:28: Character Selected, Account ID: 2000051, Character Slot: 1, Character Name: Paijun.
+19-10-2015 17:09:48: Character Selected, Account ID: 2000029, Character Slot: 1, Character Name: TaKabur.
+19-10-2015 17:10:02: Character Selected, Account ID: 2000005, Character Slot: 4, Character Name: JiEm JOG.
+19-10-2015 17:10:09: Character Selected, Account ID: 2000051, Character Slot: 0, Character Name: aliffaizun.
+19-10-2015 17:10:26: Character Selected, Account ID: 2000009, Character Slot: 1, Character Name: BomberMan.
+19-10-2015 17:11:02: Character Selected, Account ID: 2000051, Character Slot: 1, Character Name: Paijun.
+19-10-2015 17:11:42: Character Selected, Account ID: 2000029, Character Slot: 0, Character Name: Mawood.
+19-10-2015 17:11:55: Character Selected, Account ID: 2000008, Character Slot: 2, Character Name: 2015.
+19-10-2015 17:12:21: Character Selected, Account ID: 2000018, Character Slot: 0, Character Name: HUHU.
+19-10-2015 17:12:26: Character Selected, Account ID: 2000025, Character Slot: 8, Character Name: Kaitoz.
+19-10-2015 17:12:40: Character Selected, Account ID: 2000018, Character Slot: 0, Character Name: HUHU.
+19-10-2015 17:14:07: Character Selected, Account ID: 2000046, Character Slot: 0, Character Name: DekDukun.
+
+19-10-2015 17:14:58: The char-server starting...
+19-10-2015 17:14:58: Invalid register structure in the next character line (character not readed):
+19-10-2015 17:14:58: 150074	2000054,0	debugzie	4013,132,84	10156489,11552707,33586	8744,14756,1276,685	100,110,11,1,2,100	0,0	0,0,0	0,0,0,0	3,2,0	16,0,199,0,52,0	547,114,202	134,156,46,0,0,0,0,0,0		0,504,37,0,1,0,0,0,0,0,0 0,602,21,0,1,0,0,0,0,0,0 0,2654,1,128,1,0,0,0,0,0,0 0,601,21,0,1,0,0,0,0,0,0 0,1251,1,34,1,7,0,4086,4086,4086,0 0,2339,1,16,1,-3,0,0,0,0,0 0,2617,1,8,1,0,0,0,0,0,0 0,530,1,0,1,0,0,0,0,0,0 0,611,30,0,1,0,0,0,0,0,0 0,2522,1,4,1,-3,0,0,0,0,0 0,1092,1,0,1,0,0,0,0,0,0 0,5118,1,256,1,-3,0,0,0,0,0 0,1251,1,0,1,5,0,0,0,0,0 0,2265,1,1,1,0,0,0,0,0,0 0,643,1,0,1,0,0,0,0,0,0 0,514,2,0,1,0,0,0,0,0,0 0,2404,1,64,1,-3,0,4097,0,0,0 0,1104,1,0,1,0,0,0,0,0,0 0,686,1,0,1,0,0,0,0,0,0 0,757,1,0,1,0,0,0,0,0,0 0,511,1,0,1,0,0,0,0,0,0 0,509,11,0,1,0,0,0,0,0,0 0,501,1,0,1,0,0,0,0,0,0 0,608,1,0,1,0,0,0,0,0,0 0,513,1,0,1,0,0,0,0,0,0 0,538,2,0,1,0,0,0,0,0,0 0,688,1,0,1,0,0,0,0,0,0 0,1955,1,0,1,0,0,0,0,0,0 0,607,1,0,1,0,0,0,0,0,0 0,610,5,0,1,0,0,0,0,0,0 0,548,1,0,1,0,0,0,0,0,0 0,756,2,0,1,0,0,0,0,0,0 0,732,1,0,1,0,0,0,0,0,0 0,909,1,0,1,0,0,0,0,0,0 0,644,2,0,1,0,0,0,0,0,0 0,2610,1,0,1,0,0,0,0,0,0 0,603,1,0,1,0,0,0,0,0,0 		1,9 48,10 49,10 50,10 51,10 52,10 53,1 132,5 133,5 134,10 135,10 136,10 137,5 138,6 139,5 140,6 141,1 142,1 149,1 150,1 151,1 152,1 376,5 378,1 379,1 406,10 407,1 1003,1 1004,1 	PC_DIE_COUNTER,11 treasure_nd,2 QWS_ExtraVARClear,18 dmdswrd_Q2,3 que_sch,1 MISC_QUEST,24 barmunt_crow,1 RESRVPTS,892 jobchange_level,50 lastJob,12 thana_quest,1 lastmap$,tha_t02 lastx,150 lasty,136 nome$,[Baby JobChanger] 	
+19-10-2015 17:14:58: Invalid register structure in the next character line (character not readed):
+19-10-2015 17:14:58: 150314	2000092,1	zitnywuri	4038,99,50	428067,6160141,16040	7696,3848,686,343	100,93,1,1,20,1	25,0	0,0,0	159,0,0,0	18,6,0	0,0,0,0,0,0	193,148,186	193,156,195,0,150191,150313,0,0,0		0,656,8,0,1,0,0,0,0,0,0 0,601,82,0,1,0,0,0,0,0,0 0,602,4,0,1,0,0,0,0,0,0 0,505,19,0,1,0,0,0,0,0,0 0,1802,1,0,1,0,0,0,0,0,0 		1,9 22,10 23,10 24,1 25,1 26,2 27,4 28,10 29,10 30,0 31,0 32,0 33,0 34,10 35,0 142,1 156,1 259,10 261,5 262,1 263,5 265,10 266,3 267,0 269,0 270,0 272,5 273,1 408,1 409,1 	lastmap$,ice_dun01 lastx,157 lasty,14 PC_DIE_COUNTER,9 jobchange_level,50 nome$,[Baby JobChanger] 	
+19-10-2015 17:14:58: mmo_char_init: 198 characters read in save/athena.txt.
+19-10-2015 17:14:58: Id for the next created character: 150352.
+19-10-2015 17:14:58: The char-server is ready (Server is listening on the port 881).
+19-10-2015 17:15:17: Character Selected, Account ID: 2000025, Character Slot: 8, Character Name: Kaitoz.
+19-10-2015 17:15:17: Map-Server 0 connected: 804 maps, from IP 10.212.8.228 port 6121. Map-server 0 loading complete.
+19-10-2015 17:15:17: Character Selected, Account ID: 2000018, Character Slot: 0, Character Name: HUHU.
+19-10-2015 17:15:19: Character Selected, Account ID: 2000005, Character Slot: 4, Character Name: JiEm JOG.
+19-10-2015 17:15:32: Character Selected, Account ID: 2000025, Character Slot: 8, Character Name: Kaitoz.
+19-10-2015 17:15:33: Character Selected, Account ID: 2000009, Character Slot: 1, Character Name: BomberMan.
+19-10-2015 17:16:08: Character Selected, Account ID: 2000008, Character Slot: 1, Character Name: boss.
+19-10-2015 17:17:13: make new char: account: 2000054, slot 0, name: Debugzie, stats: 1/1/1/1/1/1, hair: 7, hair color: 1.
+19-10-2015 17:17:26: Character Selected, Account ID: 2000054, Character Slot: 0, Character Name: Debugzie.
+19-10-2015 17:18:06: Character Selected, Account ID: 2000009, Character Slot: 1, Character Name: BomberMan.
+19-10-2015 17:18:17: Character Selected, Account ID: 2000039, Character Slot: 2, Character Name: Asura.
+19-10-2015 17:18:21: Character Selected, Account ID: 2000051, Character Slot: 1, Character Name: Paijun.
+19-10-2015 17:18:27: Character Selected, Account ID: 2000025, Character Slot: 8, Character Name: Kaitoz.
+19-10-2015 17:19:05: Character Selected, Account ID: 2000009, Character Slot: 1, Character Name: BomberMan.
+
+19-10-2015 17:19:12: The char-server starting...
+19-10-2015 17:19:12: mmo_char_init: 199 characters read in save/athena.txt.
+19-10-2015 17:19:12: Id for the next created character: 150353.
+19-10-2015 17:19:12: The char-server is ready (Server is listening on the port 881).
+19-10-2015 17:19:14: Map-Server 0 connected: 804 maps, from IP 10.212.8.228 port 6121. Map-server 0 loading complete.
+19-10-2015 17:19:17: Character Selected, Account ID: 2000009, Character Slot: 0, Character Name: TuanMuda.
+19-10-2015 17:19:20: Character Selected, Account ID: 2000008, Character Slot: 1, Character Name: boss.
+19-10-2015 17:19:20: Character Selected, Account ID: 2000005, Character Slot: 4, Character Name: JiEm JOG.
+19-10-2015 17:19:22: Character Selected, Account ID: 2000054, Character Slot: 0, Character Name: Debugzie.
+19-10-2015 17:19:30: Character Selected, Account ID: 2000009, Character Slot: 1, Character Name: BomberMan.
+19-10-2015 17:19:38: Character Selected, Account ID: 2000018, Character Slot: 0, Character Name: HUHU.
+19-10-2015 17:20:32: Character Selected, Account ID: 2000009, Character Slot: 1, Character Name: BomberMan.
+19-10-2015 17:20:45: Character Selected, Account ID: 2000009, Character Slot: 1, Character Name: BomberMan.
+19-10-2015 17:22:13: Character Selected, Account ID: 2000025, Character Slot: 8, Character Name: Kaitoz.
+19-10-2015 17:24:23: make new char: account: 2000008, slot 0, name: bambam, stats: 1/1/1/1/1/1, hair: 6, hair color: 5.
+19-10-2015 17:24:30: Character Selected, Account ID: 2000008, Character Slot: 0, Character Name: bambam.
+19-10-2015 17:24:39: Character Selected, Account ID: 2000092, Character Slot: 0, Character Name: Zitny.
+19-10-2015 17:24:40: Character Selected, Account ID: 2000054, Character Slot: 0, Character Name: Debugzie.
+19-10-2015 17:25:44: Character Selected, Account ID: 2000029, Character Slot: 0, Character Name: Mawood.
+19-10-2015 17:26:06: Character Selected, Account ID: 2000039, Character Slot: 2, Character Name: Asura.
+19-10-2015 17:26:29: Character Selected, Account ID: 2000016, Character Slot: 2, Character Name: Luffy.
+19-10-2015 17:26:29: Character Selected, Account ID: 2000018, Character Slot: 0, Character Name: HUHU.
+19-10-2015 17:27:48: Character Selected, Account ID: 2000105, Character Slot: 1, Character Name: nikah.
+19-10-2015 17:28:46: Character Selected, Account ID: 2000054, Character Slot: 0, Character Name: Debugzie.
+19-10-2015 17:28:56: Character Selected, Account ID: 2000008, Character Slot: 0, Character Name: bambam.
+19-10-2015 17:29:25: Character Selected, Account ID: 2000009, Character Slot: 1, Character Name: BomberMan.
+19-10-2015 17:29:40: Character Selected, Account ID: 2000008, Character Slot: 0, Character Name: bambam.
+19-10-2015 17:30:23: Character Selected, Account ID: 2000054, Character Slot: 0, Character Name: Debugzie.
+19-10-2015 17:31:32: Character Selected, Account ID: 2000092, Character Slot: 0, Character Name: Zitny.
+19-10-2015 17:32:03: Character Selected, Account ID: 2000016, Character Slot: 2, Character Name: Luffy.
+19-10-2015 17:32:14: Character Selected, Account ID: 2000039, Character Slot: 2, Character Name: Asura.
+19-10-2015 17:36:42: Character Selected, Account ID: 2000050, Character Slot: 0, Character Name: B i a d a b.
+19-10-2015 17:38:19: Character Selected, Account ID: 2000070, Character Slot: 1, Character Name: Terkapar.
+19-10-2015 17:38:54: Character Selected, Account ID: 2000020, Character Slot: 0, Character Name: Javeline.
+19-10-2015 17:42:15: Character Selected, Account ID: 2000092, Character Slot: 0, Character Name: Zitny.
+
+19-10-2015 17:48:26: The char-server starting...
+19-10-2015 17:48:26: Invalid register structure in the next character line (character not readed):
+19-10-2015 17:48:26: 150173	2000025,8	Kaitoz	4062,255,20	47286484,3643920,2877812	79186,39593,2696,1338	70,220,5,1,250,104	0,19	0,0,0	157,10007,0,0	13,3,0	11,0,105,75,0,0	193,162,179	193,156,195,0,0,0,0,0,0		0,602,15,0,1,0,0,0,0,0,0 0,1765,520,32768,1,0,0,0,0,0,0 0,4409,1,0,1,0,0,0,0,0,0 0,12009,9,0,1,0,0,0,0,0,0 0,2625,1,128,1,0,0,4053,0,0,0 0,2274,1,0,1,0,0,0,0,0,0 0,1724,1,34,1,5,0,0,0,0,0 0,12007,4,0,1,0,0,0,0,0,0 0,1723,1,0,1,0,0,0,0,0,0 0,962,1,0,1,0,0,0,0,0,0 0,13047,1,0,1,0,0,0,0,0,0 0,2607,1,8,1,0,0,4103,0,0,0 0,2426,1,64,1,0,0,0,0,0,0 0,10006,1,0,1,0,0,0,0,0,0 0,632,3,0,1,0,0,0,0,0,0 0,1271,1,0,1,0,0,0,0,0,0 0,610,5,0,1,0,0,0,0,0,0 0,715,1,0,1,0,0,0,0,0,0 0,519,1,0,1,0,0,0,0,0,0 0,4303,2,0,1,0,0,0,0,0,0 0,1163,1,0,1,0,0,0,0,0,0 0,714,5,0,1,0,0,0,0,0,0 0,601,31,0,1,0,0,0,0,0,0 0,2302,1,0,0,0,0,0,0,0,0 0,623,1,0,1,0,0,0,0,0,0 0,1000,1,0,1,0,0,0,0,0,0 0,611,2,0,1,0,0,0,0,0,0 0,603,1,0,1,0,0,0,0,0,0 0,7101,1,0,1,0,0,0,0,0,0 0,1147,1,0,0,0,0,0,0,0,0 0,4335,1,0,1,0,0,0,0,0,0 0,4205,1,0,1,0,0,0,0,0,0 0,757,1,0,1,0,0,0,0,0,0 0,626,1,0,1,0,0,0,0,0,0 0,938,1,0,1,0,0,0,0,0,0 0,622,1,0,1,0,0,0,0,0,0 0,4073,1,0,1,0,0,0,0,0,0 0,695,1,0,1,0,0,0,0,0,0 0,634,1,0,1,0,0,0,0,0,0 0,532,1,0,1,0,0,0,0,0,0 0,4329,1,0,1,0,0,0,0,0,0 0,645,10,0,1,0,0,0,0,0,0 0,2274,1,0,1,0,0,0,0,0,0 0,2258,1,0,1,0,0,0,0,0,0 0,984,2,0,1,0,0,0,0,0,0 0,5019,1,256,1,0,0,0,0,0,0 0,4063,1,0,1,0,0,0,0,0,0 0,12183,3,0,1,0,0,0,0,0,0 0,2288,1,513,1,0,0,0,0,0,0 0,1055,1,0,1,0,0,0,0,0,0 0,993,2,0,1,0,0,0,0,0,0 0,985,9,0,1,0,0,0,0,0,0 0,4081,1,0,1,0,0,0,0,0,0 0,509,1,0,1,0,0,0,0,0,0 0,2254,1,0,1,0,0,0,0,0,0 0,656,3,0,1,0,0,0,0,0,0 0,2255,1,0,1,0,0,0,0,0,0 0,983,1,0,1,0,0,0,0,0,0 0,7021,1,0,1,0,0,0,0,0,0 0,2274,1,0,1,0,0,0,0,0,0 0,4413,1,0,1,0,0,0,0,0,0 0,13405,1,0,0,0,0,0,0,0,0 0,7317,1,0,1,0,0,0,0,0,0 0,7512,1,0,1,0,0,0,0,0,0 		1,9 43,10 44,10 45,10 46,10 47,10 115,5 116,5 117,5 118,2 119,4 120,5 121,0 124,1 125,0 126,10 127,1 128,10 129,5 130,0 131,5 142,1 147,1 148,1 380,10 381,5 382,5 383,10 1009,1 2235,0 2236,0 2240,0 	RESRVPTS,264 PC_DIE_COUNTER,89 jobchange_level,50 lastJob,11 QWS_ExtraVARClear,18 lastmap$,kh_dun02 lastx,41 lasty,198 in_102tower,3 jobchange_level2,90 nome$,[Baby JobChanger] 	
+19-10-2015 17:48:26: mmo_char_init: 199 characters read in save/athena.txt.
+19-10-2015 17:48:26: Id for the next created character: 150354.
+19-10-2015 17:48:26: The char-server is ready (Server is listening on the port 881).
+19-10-2015 17:48:37: Map-Server 0 connected: 804 maps, from IP 10.212.8.228 port 6121. Map-server 0 loading complete.
+19-10-2015 17:48:45: Character Selected, Account ID: 2000005, Character Slot: 4, Character Name: JiEm JOG.
+19-10-2015 17:49:47: Character Selected, Account ID: 2000054, Character Slot: 0, Character Name: Debugzie.
+19-10-2015 17:49:47: Character Selected, Account ID: 2000016, Character Slot: 2, Character Name: Luffy.
+19-10-2015 17:50:00: Character Selected, Account ID: 2000008, Character Slot: 0, Character Name: bambam.
+
+19-10-2015 17:50:25: The char-server starting...
+19-10-2015 17:50:25: mmo_char_init: 199 characters read in save/athena.txt.
+19-10-2015 17:50:25: Id for the next created character: 150354.
+19-10-2015 17:50:25: The char-server is ready (Server is listening on the port 881).
+19-10-2015 17:50:28: Map-Server 0 connected: 804 maps, from IP 10.212.8.228 port 6121. Map-server 0 loading complete.
+19-10-2015 17:50:32: Character Selected, Account ID: 2000054, Character Slot: 0, Character Name: Debugzie.
+19-10-2015 17:50:33: Character Selected, Account ID: 2000005, Character Slot: 4, Character Name: JiEm JOG.
+19-10-2015 17:51:25: Character Selected, Account ID: 2000008, Character Slot: 0, Character Name: bambam.
+19-10-2015 17:55:52: Character Selected, Account ID: 2000016, Character Slot: 2, Character Name: Luffy.
+19-10-2015 17:55:59: Character Selected, Account ID: 2000009, Character Slot: 1, Character Name: BomberMan.
+19-10-2015 17:57:15: Character Selected, Account ID: 2000070, Character Slot: 1, Character Name: Terkapar.
+19-10-2015 17:59:12: Character Selected, Account ID: 2000109, Character Slot: 0, Character Name: cikungunya.
+19-10-2015 17:59:34: Character Selected, Account ID: 2000069, Character Slot: 0, Character Name: NeAR.
+19-10-2015 18:03:28: Character Selected, Account ID: 2000005, Character Slot: 4, Character Name: JiEm JOG.
+
+19-10-2015 18:05:54: The char-server starting...
+19-10-2015 18:05:54: mmo_char_init: 199 characters read in save/athena.txt.
+19-10-2015 18:05:54: Id for the next created character: 150354.
+19-10-2015 18:05:54: The char-server is ready (Server is listening on the port 881).
+19-10-2015 18:05:58: Map-Server 0 connected: 804 maps, from IP 10.212.8.228 port 6121. Map-server 0 loading complete.
+19-10-2015 18:05:59: Character Selected, Account ID: 2000070, Character Slot: 1, Character Name: Terkapar.
+19-10-2015 18:05:59: Character Selected, Account ID: 2000009, Character Slot: 1, Character Name: BomberMan.
+19-10-2015 18:06:02: Character Selected, Account ID: 2000005, Character Slot: 4, Character Name: JiEm JOG.
+19-10-2015 18:06:03: Character Selected, Account ID: 2000054, Character Slot: 0, Character Name: Debugzie.
+19-10-2015 18:06:41: Character Selected, Account ID: 2000008, Character Slot: 0, Character Name: bambam.
+19-10-2015 18:08:28: Character Selected, Account ID: 2000030, Character Slot: 1, Character Name: LVL8.
+
+19-10-2015 18:09:24: The char-server starting...
+19-10-2015 18:09:24: mmo_char_init: 199 characters read in save/athena.txt.
+19-10-2015 18:09:24: Id for the next created character: 150354.
+19-10-2015 18:09:24: The char-server is ready (Server is listening on the port 881).
+19-10-2015 18:09:26: Map-Server 0 connected: 804 maps, from IP 10.212.8.228 port 6121. Map-server 0 loading complete.
+19-10-2015 18:09:29: Character Selected, Account ID: 2000054, Character Slot: 0, Character Name: Debugzie.
+19-10-2015 18:09:29: Character Selected, Account ID: 2000070, Character Slot: 1, Character Name: Terkapar.
+19-10-2015 18:09:29: Character Selected, Account ID: 2000009, Character Slot: 1, Character Name: BomberMan.
+19-10-2015 18:09:32: Character Selected, Account ID: 2000005, Character Slot: 4, Character Name: JiEm JOG.
+19-10-2015 18:09:43: Character Selected, Account ID: 2000020, Character Slot: 0, Character Name: Javeline.
+19-10-2015 18:10:16: Character Selected, Account ID: 2000008, Character Slot: 0, Character Name: bambam.
+19-10-2015 18:10:21: Character Selected, Account ID: 2000006, Character Slot: 0, Character Name: idoido.
+19-10-2015 18:10:39: Character Selected, Account ID: 2000039, Character Slot: 0, Character Name: kopiko.
+19-10-2015 18:11:06: Character Selected, Account ID: 2000025, Character Slot: 5, Character Name: KaitozC.
+19-10-2015 18:12:17: Character Selected, Account ID: 2000016, Character Slot: 2, Character Name: Luffy.
+19-10-2015 18:13:03: Character Selected, Account ID: 2000008, Character Slot: 1, Character Name: boss.
+19-10-2015 18:13:20: Character Selected, Account ID: 2000008, Character Slot: 3, Character Name: Tops.
+19-10-2015 18:13:43: Character Selected, Account ID: 2000054, Character Slot: 0, Character Name: Debugzie.
+19-10-2015 18:13:45: Character Selected, Account ID: 2000025, Character Slot: 5, Character Name: KaitozC.
+19-10-2015 18:19:44: Character Selected, Account ID: 2000069, Character Slot: 1, Character Name: NeaRt.
+19-10-2015 18:22:25: Character Selected, Account ID: 2000069, Character Slot: 0, Character Name: NeAR.
+19-10-2015 18:25:32: Character Selected, Account ID: 2000054, Character Slot: 0, Character Name: Debugzie.
+19-10-2015 18:26:51: Character Selected, Account ID: 2000054, Character Slot: 0, Character Name: Debugzie.
+
+19-10-2015 18:26:53: The char-server starting...
+19-10-2015 18:26:53: mmo_char_init: 199 characters read in save/athena.txt.
+19-10-2015 18:26:53: Id for the next created character: 150354.
+19-10-2015 18:26:53: The char-server is ready (Server is listening on the port 881).
+19-10-2015 18:26:55: Map-Server 0 connected: 804 maps, from IP 10.212.8.228 port 6121. Map-server 0 loading complete.
+19-10-2015 18:26:56: Character Selected, Account ID: 2000069, Character Slot: 0, Character Name: NeAR.
+19-10-2015 18:26:57: Character Selected, Account ID: 2000009, Character Slot: 1, Character Name: BomberMan.
+19-10-2015 18:26:57: Character Selected, Account ID: 2000070, Character Slot: 1, Character Name: Terkapar.
+19-10-2015 18:27:00: Character Selected, Account ID: 2000054, Character Slot: 0, Character Name: Debugzie.
+19-10-2015 18:27:05: Character Selected, Account ID: 2000005, Character Slot: 4, Character Name: JiEm JOG.
+19-10-2015 18:27:18: Character Selected, Account ID: 2000016, Character Slot: 2, Character Name: Luffy.
+19-10-2015 18:28:03: Character Selected, Account ID: 2000039, Character Slot: 0, Character Name: kopiko.
+19-10-2015 18:29:17: Character Selected, Account ID: 2000016, Character Slot: 0, Character Name: Charles.
+19-10-2015 18:30:27: Character Selected, Account ID: 2000011, Character Slot: 4, Character Name: Shion.
+19-10-2015 18:34:21: Character Selected, Account ID: 2000039, Character Slot: 1, Character Name: Edge.
+19-10-2015 18:35:05: Character Selected, Account ID: 2000016, Character Slot: 6, Character Name: Sanji.
+19-10-2015 18:35:58: Character Selected, Account ID: 2000025, Character Slot: 5, Character Name: KaitozC.
+19-10-2015 18:36:00: Character Selected, Account ID: 2000092, Character Slot: 0, Character Name: Zitny.
+19-10-2015 18:36:40: make new char: account: 2000016, slot 8, name: Run Run, stats: 1/1/1/1/1/1, hair: 14, hair color: 6.
+19-10-2015 18:38:01: Character Selected, Account ID: 2000039, Character Slot: 1, Character Name: Edge.
+19-10-2015 18:40:22: Character Selected, Account ID: 2000025, Character Slot: 6, Character Name: Kaitozx.
+19-10-2015 18:40:55: make new char: account: 2000016, slot 5, name: Run, stats: 1/1/1/1/1/1, hair: 1, hair color: 0.
+19-10-2015 18:41:17: Character Selected, Account ID: 2000016, Character Slot: 6, Character Name: Sanji.
+19-10-2015 18:43:03: Character Selected, Account ID: 2000025, Character Slot: 5, Character Name: KaitozC.
+19-10-2015 18:45:31: Character Selected, Account ID: 2000039, Character Slot: 0, Character Name: kopiko.
+19-10-2015 18:46:39: Character Selected, Account ID: 2000034, Character Slot: 0, Character Name: CSI oke bgt.
+19-10-2015 18:48:44: Character Selected, Account ID: 2000005, Character Slot: 4, Character Name: JiEm JOG.
+
+19-10-2015 18:52:21: The char-server starting...
+19-10-2015 18:52:21: mmo_char_init: 201 characters read in save/athena.txt.
+19-10-2015 18:52:21: Id for the next created character: 150356.
+19-10-2015 18:52:21: The char-server is ready (Server is listening on the port 881).
+19-10-2015 18:52:26: Map-Server 0 connected: 804 maps, from IP 10.212.8.228 port 6121. Map-server 0 loading complete.
+19-10-2015 18:52:27: Character Selected, Account ID: 2000054, Character Slot: 0, Character Name: Debugzie.
+19-10-2015 18:52:52: Character Selected, Account ID: 2000025, Character Slot: 5, Character Name: KaitozC.
+19-10-2015 18:53:48: Character Selected, Account ID: 2000016, Character Slot: 8, Character Name: Run Run.
+19-10-2015 18:57:08: Character Selected, Account ID: 2000039, Character Slot: 0, Character Name: kopiko.
+19-10-2015 18:58:41: Character Selected, Account ID: 2000092, Character Slot: 0, Character Name: Zitny.
+19-10-2015 19:01:55: Character Selected, Account ID: 2000016, Character Slot: 2, Character Name: Luffy.
+19-10-2015 19:04:40: Character Selected, Account ID: 2000016, Character Slot: 8, Character Name: Run Run.
+19-10-2015 19:05:02: Character Selected, Account ID: 2000025, Character Slot: 6, Character Name: Kaitozx.
+19-10-2015 19:05:32: Character Selected, Account ID: 2000025, Character Slot: 5, Character Name: KaitozC.
+19-10-2015 19:11:44: Character Selected, Account ID: 2000039, Character Slot: 1, Character Name: Edge.
+19-10-2015 19:16:32: Character Selected, Account ID: 2000005, Character Slot: 4, Character Name: JiEm JOG.
+19-10-2015 19:23:31: Character Selected, Account ID: 2000025, Character Slot: 5, Character Name: KaitozC.
+19-10-2015 19:30:39: Character Selected, Account ID: 2000043, Character Slot: 4, Character Name: DJcYndY.
+
+19-10-2015 19:35:09: The char-server starting...
+19-10-2015 19:35:09: mmo_char_init: 160 characters read in save/athena.txt.
+19-10-2015 19:35:09: Id for the next created character: 150268.
+19-10-2015 19:35:09: The char-server is ready (Server is listening on the port 881).
+19-10-2015 19:35:19: Map-Server 0 connected: 804 maps, from IP 10.212.8.228 port 6121. Map-server 0 loading complete.
+19-10-2015 19:35:36: Character Selected, Account ID: 2000005, Character Slot: 1, Character Name: rambutperak.
+19-10-2015 19:36:16: Character Selected, Account ID: 2000022, Character Slot: 0, Character Name: Kirito.
+
+19-10-2015 19:38:01: The char-server starting...
+19-10-2015 19:38:01: mmo_char_init: 160 characters read in save/athena.txt.
+19-10-2015 19:38:01: Id for the next created character: 150268.
+19-10-2015 19:38:01: The char-server is ready (Server is listening on the port 881).
+19-10-2015 19:38:04: Map-Server 0 connected: 804 maps, from IP 10.212.8.228 port 6121. Map-server 0 loading complete.
+19-10-2015 19:38:07: Character Selected, Account ID: 2000005, Character Slot: 1, Character Name: rambutperak.
+19-10-2015 19:38:14: Character Selected, Account ID: 2000025, Character Slot: 8, Character Name: Kaitoz.
+19-10-2015 19:38:50: Character Selected, Account ID: 2000025, Character Slot: 8, Character Name: Kaitoz.
+19-10-2015 19:39:16: Character Selected, Account ID: 2000022, Character Slot: 0, Character Name: Kirito.
+19-10-2015 19:40:46: Character Selected, Account ID: 2000043, Character Slot: 2, Character Name: DJdYan.
+19-10-2015 19:41:36: Character Selected, Account ID: 2000043, Character Slot: 1, Character Name: DJiPhanTom.
+19-10-2015 19:42:56: Character Selected, Account ID: 2000043, Character Slot: 2, Character Name: DJdYan.
+19-10-2015 19:43:35: Character Selected, Account ID: 2000029, Character Slot: 0, Character Name: Mawood.
+19-10-2015 19:50:55: make new char: account: 2000116, slot 0, name: B4byFalco, stats: 1/1/1/1/1/1, hair: 18, hair color: 7.
+19-10-2015 19:51:01: Character Selected, Account ID: 2000116, Character Slot: 0, Character Name: B4byFalco.
+19-10-2015 20:01:15: Character Selected, Account ID: 2000008, Character Slot: 0, Character Name: deLalapo.
+19-10-2015 20:08:24: Character Selected, Account ID: 2000046, Character Slot: 0, Character Name: DekDukun.
+19-10-2015 20:08:24: make new char: account: 2000082, slot 1, name: Syl, stats: 1/1/1/1/1/1, hair: 18, hair color: 7.
+19-10-2015 20:08:26: Character Selected, Account ID: 2000082, Character Slot: 1, Character Name: Syl.
+19-10-2015 20:08:56: Character Selected, Account ID: 2000035, Character Slot: 0, Character Name: Marteen.
+19-10-2015 20:09:38: Character Selected, Account ID: 2000022, Character Slot: 0, Character Name: Kirito.
+19-10-2015 20:11:32: Character Selected, Account ID: 2000022, Character Slot: 1, Character Name: LeeMinHo.
+19-10-2015 20:11:57: Character Selected, Account ID: 2000022, Character Slot: 0, Character Name: Kirito.
+19-10-2015 20:18:51: Character Selected, Account ID: 2000008, Character Slot: 1, Character Name: boss.
+
+19-10-2015 20:19:03: The char-server starting...
+19-10-2015 20:19:03: mmo_char_init: 162 characters read in save/athena.txt.
+19-10-2015 20:19:03: Id for the next created character: 150270.
+19-10-2015 20:19:03: The char-server is ready (Server is listening on the port 881).
+19-10-2015 20:19:10: Map-Server 0 connected: 804 maps, from IP 10.212.8.228 port 6121. Map-server 0 loading complete.
+19-10-2015 20:19:28: Character Selected, Account ID: 2000005, Character Slot: 2, Character Name: KsatriaPerak.
+19-10-2015 20:20:10: Character Selected, Account ID: 2000025, Character Slot: 8, Character Name: Kaitoz.
+
+19-10-2015 20:21:03: The char-server starting...
+19-10-2015 20:21:03: mmo_char_init: 162 characters read in save/athena.txt.
+19-10-2015 20:21:03: Id for the next created character: 150270.
+19-10-2015 20:21:03: The char-server is ready (Server is listening on the port 881).
+19-10-2015 20:21:06: Map-Server 0 connected: 804 maps, from IP 10.212.8.228 port 6121. Map-server 0 loading complete.
+19-10-2015 20:21:22: Character Selected, Account ID: 2000005, Character Slot: 2, Character Name: KsatriaPerak.
+19-10-2015 20:21:57: Character Selected, Account ID: 2000116, Character Slot: 0, Character Name: B4byFalco.
+
+20-10-2015 11:03:47: The char-server starting...
+20-10-2015 11:03:47: Unabled to get a character in the next line - Basic structure of line (before inventory) is incorrect (character not readed):
+20-10-2015 11:03:47: 150164	2000003,0	FristyHatake	0,1,10	0,0,1000000	40,40,11,11	9,9,1,1,9,1	0,0	0,0,0	0,0,0,0	1,0,0	193,156,195,0,0,0,0,0,0		0,2609,1,128,1,0,0,0,0,0,0 0,4086,1,0,1,0,0,0,0,0,0 0,2306,1,16,1,0,0,0,0,0,0 0,601,60,0,1,0,0,0,0,0,0 0,7097,1,0,1,0,0,0,0,0,0 0,2246,1,256,1,0,0,0,0,0,0 0,2205,1,512,1,0,0,0,0,0,0 0,4004,1,0,1,0,0,0,0,0,0 0,2267,1,1,1,0,0,0,0,0,0 0,2406,1,64,1,0,0,0,0,0,0 0,602,54,0,1,0,0,0,0,0,0 0,13202,8010,32768,1,0,0,0,0,0,0 0,13105,1,34,1,0,0,0,0,0,0 0,611,44,0,1,0,0,0,0,0,0 0,2209,1,0,0,0,0,0,0,0,0 0,985,1,0,1,0,0,0,0,0,0 0,617,1,0,1,0,0,0,0,0,0 0,2659,1,0,0,0,0,0,0,0,0 0,2660,1,0,0,0,0,0,0,0,0 0,2661,1,0,0,0,0,0,0,0,0 0,7094,4,0,1,0,0,0,0,0,0 0,2662,1,0,0,0,0,0,0,0,0 0,7093,2,0,1,0,0,0,0,0,0 0,7095,2,0,1,0,0,0,0,0,0 0,13161,1,0,0,0,0,0,0,0,0 0,2506,1,0,0,0,0,0,0,0,0 0,999,1,0,1,0,0,0,0,0,0 0,2506,1,0,0,0,0,0,0,0,0 		1,9 142,1 500,5 501,0 502,1 503,1 506,1 507,0 508,1 509,10 510,10 511,10 512,10 513,0 514,0 515,10 516,10 517,0 518,0 	PC_DIE_COUNTER,8 QWS_ExtraVARClear,18 	
+20-10-2015 11:03:47: Unabled to get a character in the next line - Basic structure of line (before inventory) is incorrect (character not readed):
+20-10-2015 11:03:47: 150303	2000055,1	Cecil	0,1,10	0,0,1000000	40,40,11,11	9,9,1,1,9,1	0,0	0,0,0	0,0,0,0	1,0,0	0,0,0,0	2,8,0	1,0,38,0,0,0	11,40,262	193,156,195,0,0,0,0,0,0		0,1201,1,0,1,0,0,0,0,0,0 0,2301,1,16,1,0,0,0,0,0,0 0,2352,1,0,1,0,0,0,0,0,0 0,569,151,0,1,0,0,0,0,0,0 0,2510,1,0,1,0,0,0,0,0,0 0,2414,1,0,1,0,0,0,0,0,0 0,5055,1,0,1,0,0,0,0,0,0 0,601,10,0,1,0,0,0,0,0,0 0,716,1,0,1,0,0,0,0,0,0 0,7059,3,0,1,0,0,0,0,0,0 0,7060,5,0,1,0,0,0,0,0,0 0,1602,1,0,1,0,0,0,0,0,0 0,1208,1,2,1,0,0,0,0,0,0 0,2506,1,0,1,0,0,0,0,0,0 0,502,1,0,1,0,0,0,0,0,0 0,2236,1,0,1,0,0,0,0,0,0 0,2206,1,0,1,0,0,0,0,0,0 0,2324,1,0,1,0,0,0,0,0,0 0,2254,1,256,1,0,0,0,0,0,0 0,910,1,0,1,0,0,0,0,0,0 0,2236,1,0,1,0,0,0,0,0,0 0,1207,1,0,1,0,0,0,0,0,0 0,2236,1,0,1,0,0,0,0,0,0 		1,9 9,10 10,0 11,0 14,5 15,4 16,0 17,1 19,4 20,4 21,2 142,1 157,1 	nov_get_item03,13 NOV_SK,3 nov_get_item02,12 nov_get_item04,16 nov_get_item05,11 lastmap$,anthell01 lastx,35 lasty,262 PC_DIE_COUNTER,2 	
+20-10-2015 11:03:47: Unabled to get a character in the next line - Basic structure of line (before inventory) is incorrect (character not readed):
+20-10-2015 11:03:47: 150312	2000057,2	Triumph	0,1,10	0,0,1000000	40,40,11,11	9,9,1,1,9,1	0,0	0,0,0	0,0,0,0	1,0,0	193,156,195,0,0,0,0,0,0		0,1201,1,2,1,0,0,0,0,0,0 0,2301,1,16,1,0,0,0,0,0,0 0,1217,1,0,1,7,0,0,0,0,0 0,2102,1,0,1,0,0,0,0,0,0 0,2104,1,32,1,0,0,0,0,0,0 0,2248,1,256,1,0,0,0,0,0,0 		1,9 48,0 49,0 50,0 52,0 142,1 149,1 150,1 151,1 152,1 	lastmap$,prontera lastx,156 lasty,183 RESRVPTS,8 	
+20-10-2015 11:03:47: Unabled to get a character in the next line - Basic structure of line (before inventory) is incorrect (character not readed):
+20-10-2015 11:03:47: 150098	2000065,0	boboboi	0,1,10	0,0,1000000	40,40,11,11	9,9,1,1,9,1	0,0	0,0,0	0,0,0,0	1,0,0	137,23,188,0,0,0,0,0,0		0,1201,1,0,1,0,0,0,0,0,0 0,2301,1,0,1,0,0,0,0,0,0 0,2352,1,16,1,0,0,0,0,0,0 0,1502,1,0,0,0,0,0,0,0,0 0,601,10,0,1,0,0,0,0,0,0 0,1243,1,0,1,0,0,0,0,0,0 0,2112,1,32,1,0,0,0,0,0,0 0,611,1,0,1,0,0,0,0,0,0 0,569,350,0,1,0,0,0,0,0,0 0,713,3,0,1,0,0,0,0,0,0 0,938,2,0,1,0,0,0,0,0,0 0,909,4,0,1,0,0,0,0,0,0 0,1202,1,2,1,0,0,0,0,0,0 0,998,1,0,1,0,0,0,0,0,0 0,935,1,0,1,0,0,0,0,0,0 0,1002,1,0,1,0,0,0,0,0,0 0,742,1,0,1,0,0,0,0,0,0 0,949,2,0,1,0,0,0,0,0,0 0,1602,1,0,0,0,0,0,0,0,0 0,705,3,0,1,0,0,0,0,0,0 0,511,2,0,1,0,0,0,0,0,0 0,914,2,0,1,0,0,0,0,0,0 0,1501,1,0,0,0,0,0,0,0,0 0,721,1,0,1,0,0,0,0,0,0 0,1502,1,0,0,0,0,0,0,0,0 0,1501,1,0,0,0,0,0,0,0,0 0,1502,1,0,0,0,0,0,0,0,0 		1,9 142,1 	nov_1st_cos,3 nov_get_item02,12 nov_get_item03,13 NOV_SK,3 nov_2nd_cos,33 PC_DIE_COUNTER,2 nov_3_swordman,20 	
+20-10-2015 11:03:50: Unabled to get a character in the next line - Basic structure of line (before inventory) is incorrect (character not readed):
+20-10-2015 11:03:50: 150102	2000068,0	laque	0,1,10	0,0,1000000	40,40,11,11	9,9,1,1,9,1	0,0	0,0,0	0,0,0,0	1,0,0	193,33,208,0,0,0,0,0,0		0,1201,1,0,1,0,0,0,0,0,0 0,2301,1,0,1,0,0,0,0,0,0 0,2352,1,0,1,0,0,0,0,0,0 0,2510,1,0,1,0,0,0,0,0,0 0,960,1,0,1,0,0,0,0,0,0 0,5055,1,0,1,0,0,0,0,0,0 0,601,18,0,1,0,0,0,0,0,0 0,4001,1,0,1,0,0,0,0,0,0 0,569,167,0,1,0,0,0,0,0,0 0,1243,1,0,1,0,0,0,0,0,0 0,2112,1,0,1,0,0,0,0,0,0 0,2303,1,0,1,0,0,0,0,0,0 0,507,2,0,1,0,0,0,0,0,0 0,713,8,0,1,0,0,0,0,0,0 0,512,6,0,1,0,0,0,0,0,0 0,938,5,0,1,0,0,0,0,0,0 0,4035,1,0,1,0,0,0,0,0,0 0,909,7,0,1,0,0,0,0,0,0 0,620,2,0,1,0,0,0,0,0,0 0,511,7,0,1,0,0,0,0,0,0 0,717,2,0,1,0,0,0,0,0,0 0,752,2,0,1,0,0,0,0,0,0 0,914,3,0,1,0,0,0,0,0,0 0,949,2,0,1,0,0,0,0,0,0 0,940,1,0,1,0,0,0,0,0,0 0,705,5,0,1,0,0,0,0,0,0 0,1163,1,0,1,0,0,0,0,0,0 0,2303,1,0,1,0,0,0,0,0,0 0,1158,1,34,1,0,0,0,0,0,0 0,2317,1,16,1,0,0,0,0,0,0 0,619,3,0,1,0,0,0,0,0,0 0,645,1,0,1,0,0,0,0,0,0 0,631,1,0,1,0,0,0,0,0,0 0,1002,6,0,1,0,0,0,0,0,0 0,935,4,0,1,0,0,0,0,0,0 0,998,4,0,1,0,0,0,0,0,0 0,515,2,0,1,0,0,0,0,0,0 0,721,1,0,1,0,0,0,0,0,0 0,908,1,0,1,0,0,0,0,0,0 0,918,1,0,1,0,0,0,0,0,0 0,501,4,0,1,0,0,0,0,0,0 0,503,2,0,1,0,0,0,0,0,0 0,506,1,0,1,0,0,0,0,0,0 0,7059,5,0,1,0,0,0,0,0,0 0,7060,4,0,1,0,0,0,0,0,0 0,1104,1,0,1,0,0,0,0,0,0 0,1010,8,0,1,0,0,0,0,0,0 0,915,1,0,1,0,0,0,0,0,0 0,622,1,0,1,0,0,0,0,0,0 		1,9 2,10 3,6 4,8 5,10 6,5 7,10 8,0 55,0 60,0 61,0 142,1 144,1 145,1 146,1 	NOV_SK,3 nov_get_item02,12 nov_get_item04,16 nov_get_item03,13 lasty,168 lastmap$,iz_dun00 lastx,168 PC_DIE_COUNTER,1 jobchange_level,50 	
+20-10-2015 11:03:50: Unabled to get a character in the next line - Basic structure of line (before inventory) is incorrect (character not readed):
+20-10-2015 11:03:50: 150153	2000077,0	Taka	0,1,10	0,0,1000000	40,40,11,11	9,9,1,1,9,1	0,0	0,0,0	0,0,0,0	1,0,0	136,53,111,0,0,0,0,0,0		0,1201,1,0,1,0,0,0,0,0,0 0,2301,1,0,1,0,0,0,0,0,0 0,2352,1,0,1,0,0,0,0,0,0 0,569,51,0,1,0,0,0,0,0,0 0,2510,1,0,1,0,0,0,0,0,0 0,2414,1,0,1,0,0,0,0,0,0 0,5055,1,0,1,0,0,0,0,0,0 0,601,10,0,1,0,0,0,0,0,0 0,602,2,0,1,0,0,0,0,0,0 		1,3 	nov_1st_cos,1 nov_get_item02,12 nov_get_item04,16 	
+20-10-2015 11:03:50: Unabled to get a character in the next line - Basic structure of line (before inventory) is incorrect (character not readed):
+20-10-2015 11:03:50: 150332	2000078,2	Liverne	0,1,10	0,0,1000000	40,40,11,11	9,9,1,1,9,1	0,0	0,0,0	0,0,0,0	1,0,0	0,0,0,0	4,5,0	4,2,41,0,53,0	193,157,190	193,156,195,0,0,0,0,0,0		0,1164,1,0,1,0,0,0,0,0,0 0,2317,1,16,1,0,0,0,0,0,0 0,2412,1,64,1,0,0,0,0,0,0 0,2506,1,4,1,0,0,0,0,0,0 0,2266,1,1,1,0,0,0,0,0,0 0,2256,1,256,1,0,0,0,0,0,0 0,602,11,0,1,0,0,0,0,0,0 0,601,68,0,1,0,0,0,0,0,0 0,2621,1,128,1,0,0,0,0,0,0 0,2621,1,8,1,0,0,0,0,0,0 0,645,3,0,1,0,0,0,0,0,0 0,512,5,0,1,0,0,0,0,0,0 0,7054,1,0,1,0,0,0,0,0,0 0,2114,1,32,1,0,0,0,0,0,0 0,1415,1,2,1,0,0,0,0,0,0 0,662,26,0,1,0,0,0,0,0,0 		1,9 2,10 3,0 4,10 5,10 6,5 7,5 8,9 22,3 23,5 28,10 35,1 55,0 63,1 64,0 142,1 144,1 145,1 146,1 248,10 249,5 250,0 253,6 254,10 369,0 1002,1 	RESRVPTS,101 lastmap$,gl_knt02 lastx,157 lasty,287 PC_DIE_COUNTER,4 jobchange_level,50 lastJob,14 in_102tower,4 	
+20-10-2015 11:03:50: Unabled to get a character in the next line - Basic structure of line (before inventory) is incorrect (character not readed):
+20-10-2015 11:03:50: 150170	2000079,0	undenied	0,1,10	0,0,1000000	40,40,11,11	9,9,1,1,9,1	0,0	0,0,0	0,0,0,0	1,0,0	136,53,111,0,0,0,0,0,0		0,1201,1,0,1,0,0,0,0,0,0 0,2301,1,0,1,0,0,0,0,0,0 		1,0 		
+20-10-2015 11:03:50: Unabled to get a character in the next line - Basic structure of line (before inventory) is incorrect (character not readed):
+20-10-2015 11:03:50: 150289	2000084,0	ShinHye	0,1,10	0,0,1000000	40,40,11,11	9,9,1,1,9,1	0,0	0,0,0	0,0,0,0	1,0,0	193,156,195,0,0,0,0,0,0		0,2315,1,16,1,0,0,4003,0,0,0 0,656,7,0,1,0,0,0,0,0,0 0,503,50,0,1,0,0,0,0,0,0 0,601,40,0,1,0,0,0,0,0,0 0,916,1,0,1,0,0,0,0,0,0 0,5053,1,769,1,0,0,0,0,0,0 0,611,5,0,1,0,0,0,0,0,0 0,2406,1,64,1,0,0,0,0,0,0 0,1175,1,34,1,0,0,0,0,0,0 0,2506,1,4,1,0,0,0,0,0,0 0,511,12,0,1,0,0,0,0,0,0 0,602,11,0,1,0,0,0,0,0,0 0,510,18,0,1,0,0,0,0,0,0 0,521,16,0,1,0,0,0,0,0,0 		1,9 2,8 3,10 4,10 5,10 6,5 7,10 8,1 55,5 56,5 57,0 58,5 59,0 60,10 61,5 62,5 63,1 64,0 142,1 144,1 145,1 146,1 355,5 356,0 357,0 359,1 1001,1 	lastmap$,mag_dun02 lastx,47 lasty,30 PC_DIE_COUNTER,2 jobchange_level,50 lastJob,7 RESRVPTS,40 	
+20-10-2015 11:03:50: Unabled to get a character in the next line - Basic structure of line (before inventory) is incorrect (character not readed):
+20-10-2015 11:03:50: 150199	2000088,0	Kalagondang	0,1,10	0,0,1000000	40,40,11,11	9,9,1,1,9,1	0,0	0,0,0	0,0,0,0	1,0,0	137,23,188,0,0,0,0,0,0		0,1201,1,2,1,0,0,0,0,0,0 0,2301,1,0,1,0,0,0,0,0,0 0,2352,1,16,1,0,0,0,0,0,0 0,569,351,0,1,0,0,0,0,0,0 0,2510,1,0,1,0,0,0,0,0,0 0,2414,1,0,1,0,0,0,0,0,0 0,5055,1,0,1,0,0,0,0,0,0 0,601,19,0,1,0,0,0,0,0,0 0,602,3,0,1,0,0,0,0,0,0 0,1243,1,0,1,0,0,0,0,0,0 0,2112,1,0,1,0,0,0,0,0,0 0,611,2,0,1,0,0,0,0,0,0 		1,3 142,1 	nov_1st_cos,3 nov_get_item02,12 nov_get_item03,13 NOV_SK,3 nov_get_item04,16 nov_2nd_cos,22 PC_DIE_COUNTER,1 	
+20-10-2015 11:03:50: Unabled to get a character in the next line - Basic structure of line (before inventory) is incorrect (character not readed):
+20-10-2015 11:03:50: 150246	2000091,4	1212	0,1,10	0,0,1000000	40,40,11,11	9,9,1,1,9,1	0,0	0,0,0	0,0,0,0	1,0,0	3,116,57,0,0,0,0,0,0		0,1201,1,0,1,0,0,0,0,0,0 0,2301,1,0,1,0,0,0,0,0,0 		1,0 		
+20-10-2015 11:03:50: Unabled to get a character in the next line - Basic structure of line (before inventory) is incorrect (character not readed):
+20-10-2015 11:03:50: 150261	2000092,0	Zitny	0,1,10	0,0,1000000	40,40,11,11	9,9,1,1,9,1	0,0	0,0,0	0,0,0,0	1,0,0	0,10004,0,0	1,0,0	12,1,110,0,0,0	193,150,181	193,156,195,0,0,0,0,0,0		0,5025,1,256,1,0,0,0,0,0,0 0,1822,1,2,1,8,0,4140,4140,4140,4140 0,602,14,0,1,0,0,0,0,0,0 0,2123,1,32,1,0,0,0,0,0,0 0,2701,1,8,1,0,0,0,0,0,0 0,2701,1,128,1,0,0,0,0,0,0 0,2423,1,64,1,-3,0,0,0,0,0 		1,9 22,10 23,10 24,1 25,1 26,2 27,4 28,10 29,10 30,0 31,0 32,0 33,0 34,10 35,0 142,1 156,1 259,10 260,2 261,5 262,1 263,10 264,1 265,10 266,5 267,3 268,3 269,2 270,5 271,5 272,3 273,3 370,0 371,0 401,1 	RESRVPTS,152 PC_DIE_COUNTER,31 jobchange_level,50 QWS_ExtraVARClear,18 lastmap$,prt_sewb4 lastx,100 lasty,92 PC_LAST_DUEL_TIME,25819 lastJob,15 	
+20-10-2015 11:03:50: Unabled to get a character in the next line - Basic structure of line (before inventory) is incorrect (character not readed):
+20-10-2015 11:03:50: 150311	2000097,1	joker	0,1,10	0,0,1000000	40,40,11,11	9,9,1,1,9,1	0,0	0,0,0	0,0,0,0	1,0,0	193,156,195,0,0,0,0,0,0		0,1601,1,2,1,10,0,0,0,0,0 0,501,44,0,1,0,0,0,0,0,0 0,602,10,0,1,0,0,0,0,0,0 0,1066,1,0,1,0,0,0,0,0,0 0,601,41,0,1,0,0,0,0,0,0 0,921,1,0,1,0,0,0,0,0,0 0,932,1,0,1,0,0,0,0,0,0 0,511,1,0,1,0,0,0,0,0,0 0,1010,1,0,1,0,0,0,0,0,0 0,938,1,0,1,0,0,0,0,0,0 0,2609,1,0,0,0,0,0,0,0,0 0,2403,1,64,1,0,0,0,0,0,0 0,2503,1,4,1,0,0,0,0,0,0 0,2627,1,128,1,0,0,0,0,0,0 		1,9 22,10 23,5 24,0 28,5 29,9 30,0 31,0 32,0 33,10 34,10 35,0 142,1 156,1 	nov_get_item02,12 nov_get_item03,13 NOV_SK,3 lastmap$,pay_dun00 lastx,21 lasty,183 PC_DIE_COUNTER,2 jobchange_level,50 lastJob,15 	
+20-10-2015 11:03:50: Unabled to get a character in the next line - Basic structure of line (before inventory) is incorrect (character not readed):
+20-10-2015 11:03:50: 150286	2000100,0	Runa	0,1,10	0,0,1000000	40,40,11,11	9,9,1,1,9,1	0,0	0,0,0	0,0,0,0	1,0,0	47,120,100,0,0,0,0,0,0		0,1201,1,0,1,0,0,0,0,0,0 0,2301,1,0,1,0,0,0,0,0,0 		1,0 	lastmap$,prontera lastx,156 lasty,183 	
+20-10-2015 11:03:50: Unabled to get a character in the next line - Basic structure of line (before inventory) is incorrect (character not readed):
+20-10-2015 11:03:50: 150290	2000101,0	MAMZKY	0,1,10	0,0,1000000	40,40,11,11	9,9,1,1,9,1	0,0	0,0,0	0,0,0,0	1,0,0	137,23,188,0,0,0,0,0,0		0,2352,1,16,1,0,0,0,0,0,0 0,569,401,0,1,0,0,0,0,0,0 0,2510,1,4,1,0,0,0,0,0,0 0,2414,1,64,1,0,0,0,0,0,0 0,5055,1,256,1,0,0,0,0,0,0 0,601,20,0,1,0,0,0,0,0,0 0,602,3,0,1,0,0,0,0,0,0 0,1243,1,2,1,0,0,0,0,0,0 0,2112,1,32,1,0,0,0,0,0,0 0,611,2,0,1,0,0,0,0,0,0 0,1002,1,0,1,0,0,0,0,0,0 0,909,1,0,1,0,0,0,0,0,0 0,935,1,0,1,0,0,0,0,0,0 0,1205,1,0,0,0,0,0,0,0,0 0,998,1,0,1,0,0,0,0,0,0 0,507,1,0,1,0,0,0,0,0,0 0,715,1,0,1,0,0,0,0,0,0 0,949,2,0,1,0,0,0,0,0,0 0,916,1,0,1,0,0,0,0,0,0 0,519,1,0,1,0,0,0,0,0,0 0,705,1,0,1,0,0,0,0,0,0 0,914,1,0,1,0,0,0,0,0,0 0,511,1,0,1,0,0,0,0,0,0 0,516,1,0,1,0,0,0,0,0,0 0,907,1,0,1,0,0,0,0,0,0 0,902,1,0,1,0,0,0,0,0,0 0,1067,1,0,1,0,0,0,0,0,0 0,1066,1,0,1,0,0,0,0,0,0 0,1019,1,0,1,0,0,0,0,0,0 0,4010,1,0,1,0,0,0,0,0,0 0,1068,1,0,1,0,0,0,0,0,0 		1,5 142,1 	nov_1st_cos,1 nov_get_item02,12 nov_get_item03,13 NOV_SK,3 nov_get_item04,16 nov_2nd_cos,33 PC_DIE_COUNTER,1 	
+20-10-2015 11:03:50: Unabled to get a character in the next line - Basic structure of line (before inventory) is incorrect (character not readed):
+20-10-2015 11:03:50: 150307	2000102,0	Kumbara	0,1,10	0,0,1000000	40,40,11,11	9,9,1,1,9,1	0,0	0,0,0	0,0,0,0	1,0,0	137,23,188,0,0,0,0,0,0		0,1201,1,0,1,0,0,0,0,0,0 0,2301,1,0,1,0,0,0,0,0,0 0,2352,1,0,1,0,0,0,0,0,0 0,602,1,0,1,0,0,0,0,0,0 0,601,9,0,1,0,0,0,0,0,0 0,1243,1,0,1,0,0,0,0,0,0 0,2112,1,0,1,0,0,0,0,0,0 0,611,2,0,1,0,0,0,0,0,0 0,569,350,0,1,0,0,0,0,0,0 0,512,2,0,1,0,0,0,0,0,0 0,938,1,0,1,0,0,0,0,0,0 0,713,1,0,1,0,0,0,0,0,0 0,1202,1,0,0,0,0,0,0,0,0 0,909,1,0,1,0,0,0,0,0,0 		1,3 142,1 	nov_1st_cos,1 nov_get_item02,12 nov_get_item03,13 NOV_SK,3 nov_2nd_cos,33 PC_DIE_COUNTER,2 	
+20-10-2015 11:03:50: Unabled to get a character in the next line - Basic structure of line (before inventory) is incorrect (character not readed):
+20-10-2015 11:03:50: 150310	2000104,0	tifa	0,1,10	0,0,1000000	40,40,11,11	9,9,1,1,9,1	0,0	0,0,0	0,0,0,0	1,0,0	3,116,57,0,0,0,0,0,0		0,1602,1,2,1,0,0,0,0,0,0 0,1202,1,0,0,0,0,0,0,0,0 0,1207,1,0,1,0,0,0,0,0,0 0,2401,1,64,1,0,0,0,0,0,0 0,2101,1,32,1,0,0,0,0,0,0 0,1202,1,0,0,0,0,0,0,0,0 0,2305,1,16,1,0,0,0,0,0,0 0,622,1,0,1,0,0,0,0,0,0 0,512,55,0,1,0,0,0,0,0,0 0,619,18,0,1,0,0,0,0,0,0 0,713,23,0,1,0,0,0,0,0,0 0,938,28,0,1,0,0,0,0,0,0 0,1202,1,0,0,0,0,0,0,0,0 0,909,24,0,1,0,0,0,0,0,0 0,1202,1,0,0,0,0,0,0,0,0 0,1202,1,0,0,0,0,0,0,0,0 0,1202,1,0,0,0,0,0,0,0,0 0,1010,2,0,1,0,0,0,0,0,0 0,915,2,0,1,0,0,0,0,0,0 0,935,2,0,1,0,0,0,0,0,0 0,1002,2,0,1,0,0,0,0,0,0 0,1602,1,0,0,0,0,0,0,0,0 0,705,5,0,1,0,0,0,0,0,0 0,949,5,0,1,0,0,0,0,0,0 0,507,5,0,1,0,0,0,0,0,0 0,515,5,0,1,0,0,0,0,0,0 0,1202,1,0,0,0,0,0,0,0,0 0,620,4,0,1,0,0,0,0,0,0 0,4006,1,0,1,0,0,0,0,0,0 0,4001,2,0,1,0,0,0,0,0,0 		1,9 9,1 10,0 11,1 14,1 16,0 17,3 19,5 20,1 142,1 157,1 	RESRVPTS,112 	
+20-10-2015 11:03:50: mmo_char_init: 183 characters read in save/athena.txt.
+20-10-2015 11:03:50: Id for the next created character: 150349.
+20-10-2015 11:03:51: The char-server is ready (Server is listening on the port 881).
+20-10-2015 11:04:01: Map-Server 0 connected: 804 maps, from IP 10.212.8.228 port 6121. Map-server 0 loading complete.
+20-10-2015 11:04:27: Character Selected, Account ID: 2000005, Character Slot: 1, Character Name: rambutperak.
+20-10-2015 11:05:53: Character Selected, Account ID: 2000054, Character Slot: 0, Character Name: debugzie.
+20-10-2015 11:12:32: Character Selected, Account ID: 2000005, Character Slot: 4, Character Name: JiEm JOG.
+20-10-2015 11:13:12: Character Selected, Account ID: 2000009, Character Slot: 0, Character Name: TuanMuda.
+20-10-2015 11:16:41: make new char: account: 2000005, slot 7, name: Test Char 991, stats: 1/1/1/1/1/1, hair: 1, hair color: 0.
+20-10-2015 11:16:43: Character Selected, Account ID: 2000005, Character Slot: 7, Character Name: Test Char 991.
+20-10-2015 11:19:55: Character Selected, Account ID: 2000006, Character Slot: 0, Character Name: idoido.
+
+20-10-2015 11:29:16: The char-server starting...
+20-10-2015 11:29:16: Unabled to get a character in the next line - Basic structure of line (before inventory) is incorrect (character not readed):
+20-10-2015 11:29:16: 150307	2000102,0	Kumbara	0,1,10	0,0,1000000	40,40,11,11	9,9,1,1,9,1	0,0	0,0,0	0,0,0,0,0,0	137,23,188	137,23,188,0,0,0,0,0,0		0,1201,1,0,1,0,0,0,0,0,0 0,2301,1,0,1,0,0,0,0,0,0 0,2352,1,0,1,0,0,0,0,0,0 0,602,1,0,1,0,0,0,0,0,0 0,601,9,0,1,0,0,0,0,0,0 0,1243,1,0,1,0,0,0,0,0,0 0,2112,1,0,1,0,0,0,0,0,0 0,611,2,0,1,0,0,0,0,0,0 0,569,350,0,1,0,0,0,0,0,0 0,512,2,0,1,0,0,0,0,0,0 0,938,1,0,1,0,0,0,0,0,0 0,713,1,0,1,0,0,0,0,0,0 0,1202,1,0,0,0,0,0,0,0,0 0,909,1,0,1,0,0,0,0,0,0 		1,3 142,1 	nov_1st_cos,1 nov_get_item02,12 nov_get_item03,13 NOV_SK,3 nov_2nd_cos,33 PC_DIE_COUNTER,2 	
+20-10-2015 11:29:16: mmo_char_init: 199 characters read in save/athena.txt.
+20-10-2015 11:29:16: Id for the next created character: 150349.
+20-10-2015 11:29:20: The char-server is ready (Server is listening on the port 881).
+20-10-2015 11:29:28: Map-Server 0 connected: 804 maps, from IP 10.212.8.228 port 6121. Map-server 0 loading complete.
+
+20-10-2015 11:32:14: The char-server starting...
+20-10-2015 11:32:14: mmo_char_init: 200 characters read in save/athena.txt.
+20-10-2015 11:32:14: Id for the next created character: 150349.
+20-10-2015 11:32:14: The char-server is ready (Server is listening on the port 881).
+20-10-2015 11:32:17: Map-Server 0 connected: 804 maps, from IP 10.212.8.228 port 6121. Map-server 0 loading complete.
+20-10-2015 11:43:28: Character Selected, Account ID: 2000005, Character Slot: 6, Character Name: TEST SKRIP.
+20-10-2015 11:44:14: Character Selected, Account ID: 2000005, Character Slot: 0, Character Name: Silperlait.
+
+20-10-2015 12:01:45: The char-server starting...
+20-10-2015 12:01:45: mmo_char_init: 200 characters read in save/athena.txt.
+20-10-2015 12:01:45: Id for the next created character: 150349.
+20-10-2015 12:01:49: The char-server is ready (Server is listening on the port 881).
+20-10-2015 12:01:51: Character Selected, Account ID: 2000009, Character Slot: 0, Character Name: TuanMuda.
+20-10-2015 12:01:57: Character Selected, Account ID: 2000009, Character Slot: 0, Character Name: TuanMuda.
+20-10-2015 12:02:02: Map-Server 0 connected: 804 maps, from IP 10.212.8.228 port 6121. Map-server 0 loading complete.
+20-10-2015 12:02:02: Character Selected, Account ID: 2000009, Character Slot: 0, Character Name: TuanMuda.
+20-10-2015 12:02:26: Character Selected, Account ID: 2000005, Character Slot: 6, Character Name: TEST SKRIP.
+20-10-2015 12:02:40: Character Selected, Account ID: 2000054, Character Slot: 0, Character Name: debugzie.
+20-10-2015 12:02:47: Character Selected, Account ID: 2000026, Character Slot: 1, Character Name: cihcih.
+20-10-2015 12:02:51: Character Selected, Account ID: 2000009, Character Slot: 0, Character Name: TuanMuda.
+
+20-10-2015 12:08:10: The char-server starting...
+20-10-2015 12:08:10: mmo_char_init: 200 characters read in save/athena.txt.
+20-10-2015 12:08:10: Id for the next created character: 150349.
+20-10-2015 12:08:10: The char-server is ready (Server is listening on the port 881).
+20-10-2015 12:08:13: Map-Server 0 connected: 804 maps, from IP 10.212.8.228 port 6121. Map-server 0 loading complete.
+20-10-2015 12:08:35: Character Selected, Account ID: 2000005, Character Slot: 6, Character Name: TEST SKRIP.
+20-10-2015 12:09:04: Character Selected, Account ID: 2000076, Character Slot: 1, Character Name: Nasi Goreng.
+20-10-2015 12:09:56: Character Selected, Account ID: 2000054, Character Slot: 0, Character Name: debugzie.
+20-10-2015 12:10:01: Character Selected, Account ID: 2000008, Character Slot: 0, Character Name: deLalapo.
+
+20-10-2015 12:16:11: The char-server starting...
+20-10-2015 12:16:11: mmo_char_init: 200 characters read in save/athena.txt.
+20-10-2015 12:16:11: Id for the next created character: 150349.
+20-10-2015 12:16:11: The char-server is ready (Server is listening on the port 881).
+20-10-2015 12:16:19: Character Selected, Account ID: 2000009, Character Slot: 0, Character Name: TuanMuda.
+20-10-2015 12:16:25: Character Selected, Account ID: 2000009, Character Slot: 0, Character Name: TuanMuda.
+20-10-2015 12:16:25: Map-Server 0 connected: 804 maps, from IP 10.212.8.228 port 6121. Map-server 0 loading complete.
+20-10-2015 12:16:52: Character Selected, Account ID: 2000075, Character Slot: 0, Character Name: zoroichi.
+20-10-2015 12:17:14: Character Selected, Account ID: 2000076, Character Slot: 1, Character Name: Nasi Goreng.
+20-10-2015 12:17:19: Character Selected, Account ID: 2000075, Character Slot: 0, Character Name: zoroichi.
+20-10-2015 12:18:06: Character Selected, Account ID: 2000016, Character Slot: 7, Character Name: Chopper.
+20-10-2015 12:18:16: make new char: account: 2000005, slot 7, name: GM JOG01, stats: 1/1/1/1/1/1, hair: 22, hair color: 4.
+20-10-2015 12:18:18: Character Selected, Account ID: 2000005, Character Slot: 7, Character Name: GM JOG01.
+20-10-2015 12:18:29: Character Selected, Account ID: 2000009, Character Slot: 0, Character Name: TuanMuda.
+20-10-2015 12:19:02: Character Selected, Account ID: 2000100, Character Slot: 0, Character Name: Runa.
+20-10-2015 12:19:59: Character Selected, Account ID: 2000009, Character Slot: 1, Character Name: BomberMan.
+20-10-2015 12:20:53: Character Selected, Account ID: 2000008, Character Slot: 0, Character Name: deLalapo.
+20-10-2015 12:22:17: Character Selected, Account ID: 2000076, Character Slot: 1, Character Name: Nasi Goreng.
+20-10-2015 12:24:20: Character Selected, Account ID: 2000054, Character Slot: 0, Character Name: debugzie.
+20-10-2015 12:26:00: Character Selected, Account ID: 2000084, Character Slot: 0, Character Name: ShinHye.
+20-10-2015 12:29:08: Character Selected, Account ID: 2000078, Character Slot: 1, Character Name: SvenDrake.
+20-10-2015 12:30:32: make new char: account: 2000117, slot 0, name: JancukBoy, stats: 1/1/1/1/1/1, hair: 17, hair color: 4.
+20-10-2015 12:30:33: Character Selected, Account ID: 2000117, Character Slot: 0, Character Name: JancukBoy.
+20-10-2015 12:38:25: Character Selected, Account ID: 2000016, Character Slot: 4, Character Name: Ussop.
+20-10-2015 12:40:03: Character Selected, Account ID: 2000016, Character Slot: 3, Character Name: Franky.
+20-10-2015 12:40:57: Character Selected, Account ID: 2000016, Character Slot: 2, Character Name: Luffy.
+20-10-2015 12:42:13: Character Selected, Account ID: 2000016, Character Slot: 1, Character Name: Timmy.
+20-10-2015 12:42:50: Character Selected, Account ID: 2000016, Character Slot: 0, Character Name: Charles.
+20-10-2015 12:43:53: make new char: account: 2000016, slot 5, name: BOB, stats: 1/1/1/1/1/1, hair: 1, hair color: 0.
+20-10-2015 12:43:54: Character Selected, Account ID: 2000016, Character Slot: 5, Character Name: BOB.
+20-10-2015 12:45:26: Character Selected, Account ID: 2000009, Character Slot: 1, Character Name: BomberMan.
+20-10-2015 12:47:50: Character Selected, Account ID: 2000016, Character Slot: 7, Character Name: Chopper.
+20-10-2015 12:50:03: Character Selected, Account ID: 2000090, Character Slot: 0, Character Name: Nami.
+20-10-2015 12:53:02: make new char: account: 2000091, slot 0, name: SuperSaiya, stats: 1/1/1/1/1/1, hair: 10, hair color: 6.
+20-10-2015 12:53:09: Character Selected, Account ID: 2000091, Character Slot: 0, Character Name: SuperSaiya.
+20-10-2015 12:54:53: Character Selected, Account ID: 2000090, Character Slot: 0, Character Name: Nami.
+20-10-2015 12:55:10: Character Selected, Account ID: 2000016, Character Slot: 2, Character Name: Luffy.
+20-10-2015 12:55:28: Character Selected, Account ID: 2000091, Character Slot: 0, Character Name: SuperSaiya.
+20-10-2015 12:55:59: Character Selected, Account ID: 2000091, Character Slot: 0, Character Name: SuperSaiya.
+20-10-2015 12:57:47: Character Selected, Account ID: 2000039, Character Slot: 2, Character Name: Asura.
+20-10-2015 12:58:30: Character Selected, Account ID: 2000051, Character Slot: 0, Character Name: aliffaizun.
+20-10-2015 12:58:33: Character Selected, Account ID: 2000078, Character Slot: 1, Character Name: SvenDrake.
+20-10-2015 13:00:34: Character Selected, Account ID: 2000006, Character Slot: 0, Character Name: idoido.
+
+20-10-2015 13:08:25: The char-server starting...
+20-10-2015 13:08:25: Invalid register structure in the next character line (character not readed):
+20-10-2015 13:08:25: 150074	2000054,0	debugzie	6,61,45	7880,142129,994920	2944,1339,270,135	1,1,1,1,1,1	570,44	0,0,0	0,0,221,0	1,0,0	1,0,72,0,52,0	193,146,204	134,156,46,0,0,0,0,0,0		0,504,19,0,1,0,0,0,0,0,0 0,602,23,0,1,0,0,0,0,0,0 0,2654,1,128,1,0,0,0,0,0,0 0,601,21,0,1,0,0,0,0,0,0 0,1251,1,0,1,7,0,4086,4086,4086,0 0,2339,1,16,1,-3,0,0,0,0,0 0,2617,1,8,1,0,0,0,0,0,0 0,530,1,0,1,0,0,0,0,0,0 0,611,29,0,1,0,0,0,0,0,0 0,2522,1,4,1,-3,0,0,0,0,0 0,1092,1,0,1,0,0,0,0,0,0 0,5118,1,0,1,-3,0,0,0,0,0 0,1251,1,0,1,5,0,0,0,0,0 0,2265,1,1,1,0,0,0,0,0,0 0,1216,1,0,0,0,0,0,0,0,0 0,514,2,0,1,0,0,0,0,0,0 0,2404,1,64,1,-3,0,4097,0,0,0 0,2285,1,256,1,0,0,0,0,0,0 0,1205,1,0,1,0,0,0,0,0,0 0,757,1,0,1,0,0,0,0,0,0 0,1226,1,2,1,0,0,0,0,0,0 0,620,1,0,1,0,0,0,0,0,0 0,501,1,0,1,0,0,0,0,0,0 0,608,1,0,1,0,0,0,0,0,0 0,513,1,0,1,0,0,0,0,0,0 0,538,2,0,1,0,0,0,0,0,0 0,688,1,0,1,0,0,0,0,0,0 0,1955,1,0,1,0,0,0,0,0,0 0,1011,1,0,1,0,0,0,0,0,0 0,932,1,0,1,0,0,0,0,0,0 0,548,1,0,1,0,0,0,0,0,0 0,756,2,0,1,0,0,0,0,0,0 0,732,1,0,1,0,0,0,0,0,0 		1,9 48,10 49,10 50,10 51,10 52,10 53,1 142,1 149,1 150,1 151,1 152,1 	PC_DIE_COUNTER,12 treasure_nd,2 QWS_ExtraVARClear,18 dmdswrd_Q2,3 que_sch,1 MISC_QUEST,24 barmunt_crow,1 RESRVPTS,908 jobchange_level,50 lastJob,12 thana_quest,1 lastmap$,prontera lastx,156 lasty,183 nome$,[Baby JobChanger] 	
+20-10-2015 13:08:25: Invalid register structure in the next character line (character not readed):
+20-10-2015 13:08:25: 150269	2000076,1	Nasi Goreng	4008,72,36	276720,617514,988920	14310,6855,594,287	77,61,22,1,9,1	0,3	32,0,0	0,0,0,0	1,0,0	3,0,41,12,52,0	173,67,259	193,156,195,0,0,0,0,0,0		0,2607,1,128,1,0,0,0,0,0,0 0,943,1,0,1,0,0,0,0,0,0 0,1208,1,0,1,0,0,0,0,0,0 0,656,11,0,1,0,0,0,0,0,0 0,2265,1,1,1,0,0,0,0,0,0 0,2201,1,512,1,0,0,0,0,0,0 0,4038,3,0,1,0,0,0,0,0,0 0,4020,1,0,1,0,0,0,0,0,0 0,1164,1,34,1,7,0,0,0,0,0 0,501,5,0,1,0,0,0,0,0,0 0,932,1,0,1,0,0,0,0,0,0 0,2317,1,16,1,-6,0,0,0,0,0 0,2256,1,256,1,0,0,0,0,0,0 0,2553,1,4,1,-3,0,4133,0,0,0 0,984,24,0,1,0,0,0,0,0,0 0,7026,3,0,1,0,0,0,0,0,0 0,1095,4,0,1,0,0,0,0,0,0 0,4085,2,0,1,0,0,0,0,0,0 0,4090,2,0,1,0,0,0,0,0,0 0,601,28,0,1,0,0,0,0,0,0 0,985,17,0,1,0,0,0,0,0,0 0,757,8,0,1,0,0,0,0,0,0 0,643,2,0,1,0,0,0,0,0,0 0,756,2,0,1,0,0,0,0,0,0 0,725,1,0,1,0,0,0,0,0,0 0,4199,1,0,1,0,0,0,0,0,0 0,2412,1,64,1,0,0,4319,0,0,0 0,4315,1,0,1,0,0,0,0,0,0 0,7063,4,0,1,0,0,0,0,0,0 0,4185,1,0,1,0,0,0,0,0,0 0,4311,1,0,1,0,0,0,0,0,0 0,4086,1,0,1,0,0,0,0,0,0 0,7015,2,0,1,0,0,0,0,0,0 0,4069,1,0,1,0,0,0,0,0,0 0,1201,1,0,0,0,0,0,0,0,0 0,4212,1,0,1,0,0,0,0,0,0 0,901,1,0,1,0,0,0,0,0,0 0,4244,1,0,1,0,0,0,0,0,0 0,4133,1,0,1,0,0,0,0,0,0 0,4265,5,0,1,0,0,0,0,0,0 0,4117,1,0,1,0,0,0,0,0,0 0,4231,1,0,1,0,0,0,0,0,0 0,4246,2,0,1,0,0,0,0,0,0 0,4331,1,0,1,0,0,0,0,0,0 0,4166,1,0,1,0,0,0,0,0,0 0,4279,2,0,1,0,0,0,0,0,0 0,4391,1,0,1,0,0,0,0,0,0 0,728,3,0,1,0,0,0,0,0,0 0,1022,3,0,1,0,0,0,0,0,0 0,1008,2,0,1,0,0,0,0,0,0 0,602,8,0,1,0,0,0,0,0,0 0,1029,1,0,1,0,0,0,0,0,0 0,994,1,0,1,0,0,0,0,0,0 0,701,1,0,1,0,0,0,0,0,0 0,969,1,0,1,0,0,0,0,0,0 0,1030,5,0,1,0,0,0,0,0,0 0,1011,1,0,1,0,0,0,0,0,0 0,638,2,0,1,0,0,0,0,0,0 0,645,11,0,1,0,0,0,0,0,0 0,1098,1,0,1,0,0,0,0,0,0 0,4268,1,0,1,0,0,0,0,0,0 0,709,1,0,1,0,0,0,0,0,0 0,997,1,0,1,0,0,0,0,0,0 0,929,1,0,1,0,0,0,0,0,0 0,968,1,0,1,0,0,0,0,0,0 		1,9 2,1 3,10 4,3 5,10 6,5 7,10 8,10 55,0 60,10 61,5 62,10 63,1 64,5 142,1 144,1 145,1 146,1 355,1 356,0 	PC_DIE_COUNTER,29 QWS_ExtraVARClear,18 jobchange_level,50 lastmap$,pay_dun02 lastx,19 lasty,63 lastJob,7 in_102tower,1 ZLMASKQ,1 RESRVPTS,16 nome$,[Baby JobChanger] 	
+20-10-2015 13:08:25: Invalid register structure in the next character line (character not readed):
+20-10-2015 13:08:25: 150169	2000078,1	SvenDrake	5,67,50	595569,113855,852240	2690,1345,395,215	64,30,1,1,30,1	196,119	0,0,0	0,0,0,0	1,0,0	7,0,38,0,0,0	193,156,191	193,116,73,0,0,0,0,0,1445320959		0,601,19,0,1,0,0,0,0,0,0 0,602,9,0,1,0,0,0,0,0,0 0,2324,1,0,1,0,0,0,0,0,0 0,2257,1,0,1,0,0,0,0,0,0 0,2254,1,0,1,0,0,0,0,0,0 0,2333,1,0,1,0,0,0,0,0,0 0,2254,1,256,1,0,0,0,0,0,0 0,2274,1,0,1,0,0,0,0,0,0 0,2418,1,0,1,0,0,0,0,0,0 0,1363,1,34,1,0,0,0,0,0,0 0,2519,1,0,1,0,0,0,0,0,0 0,2353,1,0,1,0,0,0,0,0,0 0,938,6,0,1,0,0,0,0,0,0 0,512,8,0,1,0,0,0,0,0,0 0,910,2,0,1,0,0,0,0,0,0 0,620,2,0,1,0,0,0,0,0,0 0,1602,1,0,1,0,0,0,0,0,0 0,909,2,0,1,0,0,0,0,0,0 0,713,3,0,1,0,0,0,0,0,0 0,619,1,0,1,0,0,0,0,0,0 0,1602,1,0,1,0,0,0,0,0,0 0,610,1,0,1,0,0,0,0,0,0 0,514,3,0,1,0,0,0,0,0,0 0,509,1,0,1,0,0,0,0,0,0 0,511,2,0,1,0,0,0,0,0,0 0,2116,1,0,1,0,0,0,0,0,0 0,695,1,0,1,0,0,0,0,0,0 0,2116,1,0,1,0,0,0,0,0,0 0,1602,1,0,1,0,0,0,0,0,0 		1,9 36,10 37,10 38,10 39,10 40,1 41,10 42,10 142,1 153,1 154,1 155,1 	QWS_ExtraVARClear,18 RESRVPTS,511 PC_DIE_COUNTER,11 jobchange_level,50 lastJob,10 lastmap$,pay_fild05 lastx,134 lasty,204 ZLMASKQ,1 BLACK_SK,1 BLACK_SK2,1 nome$,[Baby JobChanger] 	
+20-10-2015 13:08:25: mmo_char_init: 201 characters read in save/athena.txt.
+20-10-2015 13:08:25: Id for the next created character: 150353.
+20-10-2015 13:08:25: The char-server is ready (Server is listening on the port 881).
+20-10-2015 13:08:27: Map-Server 0 connected: 804 maps, from IP 10.212.8.228 port 6121. Map-server 0 loading complete.
+20-10-2015 13:08:38: Character Selected, Account ID: 2000005, Character Slot: 7, Character Name: GM JOG01.
+20-10-2015 13:08:45: Character Selected, Account ID: 2000100, Character Slot: 0, Character Name: Runa.
+
+20-10-2015 13:10:19: The char-server starting...
+20-10-2015 13:10:19: mmo_char_init: 201 characters read in save/athena.txt.
+20-10-2015 13:10:19: Id for the next created character: 150353.
+20-10-2015 13:10:19: The char-server is ready (Server is listening on the port 881).
+20-10-2015 13:10:21: Map-Server 0 connected: 804 maps, from IP 10.212.8.228 port 6121. Map-server 0 loading complete.
+20-10-2015 13:10:24: Character Selected, Account ID: 2000005, Character Slot: 7, Character Name: GM JOG01.
+20-10-2015 13:10:38: Character Selected, Account ID: 2000100, Character Slot: 0, Character Name: Runa.
+20-10-2015 13:10:57: make new char: account: 2000100, slot 1, name: mulan, stats: 1/1/1/1/1/1, hair: 1, hair color: 0.
+20-10-2015 13:10:59: Character Selected, Account ID: 2000100, Character Slot: 1, Character Name: mulan.
+
+20-10-2015 13:13:14: The char-server starting...
+20-10-2015 13:13:14: mmo_char_init: 202 characters read in save/athena.txt.
+20-10-2015 13:13:14: Id for the next created character: 150354.
+20-10-2015 13:13:14: The char-server is ready (Server is listening on the port 881).
+20-10-2015 13:13:16: Map-Server 0 connected: 804 maps, from IP 10.212.8.228 port 6121. Map-server 0 loading complete.
+20-10-2015 13:13:19: Character Selected, Account ID: 2000100, Character Slot: 1, Character Name: mulan.
+20-10-2015 13:13:21: Character Selected, Account ID: 2000005, Character Slot: 7, Character Name: GM JOG01.
+20-10-2015 13:14:08: Character Selected, Account ID: 2000100, Character Slot: 1, Character Name: mulan.
+
+20-10-2015 13:14:28: The char-server starting...
+20-10-2015 13:14:28: mmo_char_init: 202 characters read in save/athena.txt.
+20-10-2015 13:14:28: Id for the next created character: 150354.
+20-10-2015 13:14:28: The char-server is ready (Server is listening on the port 881).
+20-10-2015 13:14:30: Map-Server 0 connected: 804 maps, from IP 10.212.8.228 port 6121. Map-server 0 loading complete.
+20-10-2015 13:14:38: Character Selected, Account ID: 2000005, Character Slot: 7, Character Name: GM JOG01.
+20-10-2015 13:15:48: Character Selected, Account ID: 2000100, Character Slot: 1, Character Name: mulan.
+20-10-2015 13:20:30: Character Selected, Account ID: 2000100, Character Slot: 1, Character Name: mulan.
+20-10-2015 13:28:49: Character Selected, Account ID: 2000008, Character Slot: 0, Character Name: deLalapo.
+20-10-2015 13:30:04: make new char: account: 2000008, slot 5, name: bambam, stats: 1/1/1/1/1/1, hair: 1, hair color: 0.
+20-10-2015 13:30:06: Character Selected, Account ID: 2000008, Character Slot: 5, Character Name: bambam.
+20-10-2015 13:31:31: make new char: account: 2000119, slot 0, name: Lala, stats: 1/1/1/1/1/1, hair: 1, hair color: 0.
+20-10-2015 13:31:32: Character Selected, Account ID: 2000119, Character Slot: 0, Character Name: Lala.
+20-10-2015 13:50:55: Character Selected, Account ID: 2000005, Character Slot: 7, Character Name: GM JOG01.
+20-10-2015 14:46:19: Character Selected, Account ID: 2000022, Character Slot: 0, Character Name: Kirito.
+20-10-2015 14:59:55: make new char: account: 2000054, slot 11, name: rebugzie, stats: 1/1/1/1/1/1, hair: 7, hair color: 6.
+20-10-2015 15:00:05: Character Selected, Account ID: 2000054, Character Slot: 11, Character Name: rebugzie.

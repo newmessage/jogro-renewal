@@ -1,0 +1,8 @@
+// Internal default is limited to 128 lines.  If you need more, you will need to modify the MOTD_LINE_SIZE definition in pc.c
+Selamat datang di dunia Rune Migard anak muda!
+Kalau nemu bug, silaken diisikan kesini
+https://goo.gl/Z7FO9V
+Kenanglah masa-masa mudamu sembari menikmati petualangan di dunia Rune Midgard ini~~!!
+-- UPDATE: Renewal! dan JOB 3~!! --
+--- Untuk kepentingan balancing maka, semua character akan di reset Base Level, Job Level, dan Class/Job kembali ke awal ---
+--- Base Level 1, Job Level 10, Job/Class Novice. Storage dan Inventory masih utuh ---
